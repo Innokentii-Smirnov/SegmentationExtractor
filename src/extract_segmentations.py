@@ -4,7 +4,7 @@ from collections import defaultdict
 from morph import parseMorph
 directory = path.join(getenv('HOME'), 'Documents', 'HurrianCorpus')
 infile = path.join(directory, 'PrecompiledDictionary.json')
-outfile = path.join(directory, 'word.xhu.tsv')
+outfile = 'word.xhu.tsv'
 assert path.exists(infile)
 with open(infile, 'r', encoding='utf-8') as fin:
   json_data = load(fin)
@@ -15,7 +15,8 @@ def is_fragment(form: str) -> bool:
 for transcription, values in dictionary.items():
   if (not is_fragment(transcription)
       and transcription.strip() != ''
-      and transcription.islower()):
+      and transcription.islower()
+      and not any(char.isdigit() for char in transcription)):
     for value in values:
       morph = parseMorph(value)
       data[morph.segmentation.lower()].append(transcription)
