@@ -2,8 +2,9 @@ from os import getenv, path
 from json import load
 from collections import defaultdict
 from morph import parseMorph
-directory = path.join(getenv('HOME'), 'Documents', 'HurrianCorpus')
-infile = path.join(directory, 'PrecompiledDictionary.json')
+directory = path.join(getenv('HOME'), 'bwSyncShare', 'TIVE BASISCORPUS ARBEITSBEREICH')
+infile = path.join(directory, 'Dictionary.json')
+assert path.exists(infile)
 outfile = 'word.xhu.tsv'
 assert path.exists(infile)
 with open(infile, 'r', encoding='utf-8') as fin:

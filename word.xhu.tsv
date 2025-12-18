@@ -3,11 +3,11 @@ ab+ar+i-ne	abarri
 ab+ar+i-ne-e	abarri
 ab+ar+i=m	abarim
 ab+iġ+ar+i-ne-ve-ne-e=lla	abiġarrivenella
-abi	abi
-abi-až-a	abiaža
-abi-i-až-a	abiaža
-abi-n	abin
-abi-n=am	abinam
+abal+ġe	abalġi
+abal+ġe-a=d	abalġad
+abal+ġe-āe	abalġāe
+abal+ġe-āi	abalġāi
+abi-iffe-až	abibaž
 abi-ne-ē	abinie
 abi-nē	abinie
 abri	ābri
@@ -15,6 +15,7 @@ abri-i-āž-e	abriāži
 abri-ā=m	abrām
 abri-ī-da	abrīda
 abundi-šši	abundišši
+abāri	abāri
 ad+a+šše	adašši, adaššī
 ad+a+šše-ne-e	adaššene, adaššīni
 ad+a+šše-ve	adaššībi
@@ -26,8 +27,10 @@ ad+ā+ni-i-aš-ta	adaniašta
 ad-a=l	adal
 ad-e	ade
 ad-i	adi
+ad-ē=ma	adēma
 ade	ade, adi
 ade-a=l	adal
+ade=ma	adēma
 adi	adi
 adāl	adal
 adāl-ne-ē=lla	adāllēlla
@@ -63,16 +66,17 @@ ag-u=m	agum
 ag-ō-m-ā=lla	agūmālla
 ag-ō=lla	agūlla
 ag-ōž-a	agōža
+ag-ōž-i	agōži
 ag-ōž-ā	agōžā
 ag-ū=lla	agūlla
 aga-ve	agāve
 aga-vē-na-āž-a	agabēnāža
 agi	agi
 agi-a	aga
-agulli-na	agulla
+ago-da	aguda
+ago-ž	agōž
+aguli-na	agulla, agūlla
 agumi-a	aguma
-agō-ž	agōž
-agūli-na	agūlla
 agūlli-a	agūlla
 ai	ai, āi
 ai=m	aīb
@@ -82,6 +86,10 @@ ai=mma	aīmma
 ai=mān	aimān
 ai=n	aīn
 aia	aia
+aigaldo-va	aigalduba
+aigaldu-da	aigalduda
+aio-da	aiuda
+aio-va	aiwpa
 aiu-va	aiw-pa
 aiu-ve	aiw-pi
 akk+ade-ne	akkadeni
@@ -91,12 +99,12 @@ akkade-ne-ve	ākkadene
 al+il+an-o-m	alilanum
 al+ipš+i	alipši
 al+o+bade-na-až-a	alubadinaža
-al+o+re	ālōri
+al+o+re	alōri, alūri, ālōri
 al+o+re-na	alurina, alūrina
+al+u+b+a+sḫe-ne	alubasḫini
+al+u+b+a+sḫe-ne-e	alubasḫini
 al+u+mb+a+sḫe	alumbasḫi
 al+ā+že	alāži
-al+ōr+e	alōri
-al+ū+re	alūri
 al-i-kki	alikki
 al-ol-d-a	alulda
 al-ol-ū	alulū
@@ -117,11 +125,12 @@ ald-a	alda
 aldi-a	alda
 all+ī+ġe-a	allīġa
 all-īġ-a	allīġa
+alla+n+o+ḫḫe	allanōḫḫi
 alla+n+o+ḫḫe-ne-va	allanuḫḫinia
-alla+n+ō+ḫḫe	allanōḫḫi
 alla+ni	allāni
-allani-ne-da	allannida
 allanzō=n	allanzōn
+allum+āde-a	allumāda
+allumi-ā=tta	allumāda
 alu-m+ai	aluma, alumai, alumma
 alu-m+ai-n	alumain, alumāin
 alu-m+aē	alumē
@@ -131,6 +140,7 @@ alu-m+āī-n	alumāīn
 alu-u+m+ai	aluma
 alu-ušt-i	alušti
 alu-ī-b	aluwīb, aluīb
+alu-ūšt-i	ālūšti
 alulbi	alulbi
 alv+o+vade	alvovade
 alāli-ae	alālae
@@ -144,7 +154,6 @@ am+o+mi-ā=m	amumām
 am+o+mi-ā=v	amōmāb
 am+ud-ō-bade	amudōbadi
 am+ān+umi-a=l	amānumal
-am+ū+mi-nē-va	amūminēva
 am-ar-ill-ō-m	amarillōm
 am-ašt-ed-a	amašteda
 am-i-l-ānni	amelānni
@@ -163,6 +172,7 @@ amb+a+že-a	ambaža
 amissadu-ž	amissaduž
 amm+ož+ikk+o+nni	ammužikkunne
 amm+u+mmi	ammummi
+amm+u+mmi-nē-va	amūminēva
 amm-i-b-ā=lla	āmmibālla
 amm-i-en	ammen
 amm-o-m	ammum
@@ -172,6 +182,7 @@ amm-ēd-a	ammēda
 amm-ī-b	āmmīb
 amm-ō-m	āmmōm
 ammatte	ammatti
+ammatte-na	amattena, amāttīna
 ammurami	ammurami
 amuri-na	ara
 amurž-āw-ž	ažāuž
@@ -203,27 +214,26 @@ anz+angi-īē-ž	anzangiēž
 anz+i+ġe-i-až	anziġiaž
 anz-a=mma	ānzamma
 anz-o	anzu
-anz-o-eš=nna	anzušša
 anz-u	anzu
 anz-ī=ma	anzīma
-anze-ī=ma	anzīma
 anzi-a=mma	ānzamma
 anzi-da	ānzida
 anzi-ne	anzini
-anzi-oš=nna	anzušša
+anzi-ī=ma	anzīma
 anzi=ma	anzīma
 aoli-ž	auliž
 app+a+šše	umbašši
 app-a-šše	umbašši
 appubi-n	appubin
 apsižnā-ġe	apsižnāġi
+apše	āpši
 apše-na	apšena
 apše-ne-ve	apšeneve
-apšē-ne-ž	apšēniž
+apše-ne-ž	apšēniž
 ar+e+šše-a=l	areššal
 ar+i+re	arire
 ar-am-d-ō-m	aramdōm
-ar-i	ari
+ar-i	ari, āri
 ar-i-a-mma	ariamma
 ar-i-an	arian
 ar-i-ež-a=l	areššal
@@ -247,15 +257,17 @@ aranziġō-va	aranziġōba
 arb+ar+i-ra	arbarra
 ard+o+ġe-ne-ž	arduġiniž
 ard-ūr-i	ardūri
-arde	arde, ardē
+arde	arde, ardē, ārdi
 arde-a	arda
 arde-i	ārdi
 arde-i-ve-ne-š=nna	ārdibinešša
 arde-iffo-š=nna	ārdivošša
+arde-n	ardēn
 arde-ne	ardeni, ārdēni
 arde-ne-e	ardeni, ārdēni
 arde-ne-e=n	ardinin
 arde-ne-n	ardinin
+arde-ne-ve-na	ārdenibina
 arde-ne=n	ardinin
 arde-ve-āi	ardebāi
 arde-ī-dan	ārdīdan
@@ -263,10 +275,9 @@ arde-ī-dan〈〈i〉〉	ārdīdani
 arde-ī=ma	ārdīma
 arde=ma	ārdima
 arde=mān	ārdimān
-ardē-n	ardēn
-ardē=n	ardēn
+arde=n	ardēn
 ardūri	ardūri
-ari	ari
+ari	ari, āri
 ari-ne-e	arri
 ari-ī-ve=n	arīvin
 arib.ebla-ž	aribiblaž
@@ -276,6 +287,7 @@ arm+i+mmi	armimmi
 arm-o-ež	armuž
 armi-ož	armuž
 arni	arni, ārni
+arni-a	arna
 arni-āi	arnāi
 aruli-ne	arulli
 aruli-ne-e	arulli
@@ -319,7 +331,7 @@ avari-ne-ve	avarribi
 avari-ne-ve-na	avarribina
 avari-ne-ē	avarrie
 avari-nē	avarrie
-ave-až-a	aveaža
+ave-až-a	abiaža, aveaža
 ave-da	aveda
 ave-na	avena
 ave-š=d	abēd
@@ -327,9 +339,11 @@ ave-š=nna=m	aēššam
 ave-š=nnā	abiššā
 ave-š=tilla	abēdilla
 ave=ma	abima
-avi	appi, avi, ābi, āvi
+avi	abi, appi, avi, ābi, āvi
 avi+n	abin, avin, avīn
+avi+n=am	abinam
 avi-a	ava
+avi-i-až-a	abiaža
 avi-i-da	avida, ābida
 avi-i-va	*abiva, abiva
 avi-n	avin
@@ -346,43 +360,51 @@ azallae-ne-n	azallaenen
 azalli=n	azallin
 aziri	aziri
 azusḫi	azusḫi
+azusḫi-a	azusḫa
 aēšši-a=m	aēššam
-aġari-ne-ve-na-āž-a	aġarribināža
-aġarri-a	ara
 aġarž-āw-ž	ažāuž
 aġr+i+nni-ne-ve-ne-da	aġrinninibinida
-aġri-a	āġra
-aġri-na	ara
-aġri-nē-va	aġarrēba
-aġri-nē-ve-ož	aġarrēbuž
+aġr+o+šḫe-ne	aġrušḫini
+aġri-āi=d	aġrāid
+aġrā-i=d	aġrāid
 aġui-na	aġuina
 aġuri-na	ara
 aġurž-āw-ž	ažāuž
 aō	au, āu
 aō=l	aōl
-ašk-i-le	aškili
+ašk-i-le	aškili, āškili
 ašt+o+ḫḫe	āštuḫḫi
-ašt+o+ḫḫe-na	aštuḫḫina
+ašt+o+ḫḫe-na	aštuḫḫina, āštuḫḫēna
+ašt+o+ḫḫe-na-až-e-āi	aštuḫḫinažāi
 ašt+o+ḫḫe-na-až-ož	aštuḫḫinažuž
+ašt+o+ḫḫe-na-āž-a	aštuḫḫināža
 ašt+o+ḫḫe-na-āž-ož	aštuḫḫināžuž
 ašt+o+ḫḫe-āe	aštuḫḫāe
 aštaga-da=m	āštagādab
 aštaga-ve	aštāgabi
+ašte-nna	aštenna
+ašte=nna	aštenna
 ašḫ+ašt+a+ḫḫe	ašḫaštaġe
 ašḫ+ašt+aʾe	ašḫaštaġe
+ašḫ+ož+i+kk+o+nni-va	ašḫužikkunniba
+ašḫ+ož+i+kk+o+nni-ve	ašḫužikkunnibi
+ašḫo	ašḫu, ašḫō, āšḫu, āšḫō
 ašḫo-da=an	ašḫudan
 ašḫo-da=n	ašḫudan
 ašḫo-dan	ašḫudan
 ašḫo-i-dan	ašḫuidan
+ašḫo-n	āšḫun
+ašḫo-n=an	ašḫōnan
 ašḫo-ne-e=lla	ašḫunilla
 ašḫo-ne=lla	ašḫunilla
-ašḫō	ašḫō
-ašḫō-n=an	ašḫōnan
-ašḫō=n=an	ašḫōnan
+ašḫo=n	āšḫun
+ašḫo=n=an	ašḫōnan
 až+arb+a+šše-na	ažarbaššina
 až+i+ġe	ažiġi
 až+oġe-ne-e	ažōġini, ažūġeni
 až+oġe-ne-ve-a	ažuġiniva
+až+ož-ill-and-i-n	ažužellandin, ažōžellandin, ažōžillandin
+až+ož-ill-and-i=n	ažužellandin, ažōžellandin, ažōžillandin
 až+ō+re	ažuri, ažōri, ažūri, āžōri
 až+ō+re-i-ž	ažurež
 až+ō+re-ž	ažurež
@@ -390,17 +412,16 @@ až-amm-o	ažammu
 až-amm-u	ažammu
 až-an-o-m	ažanub
 až-ašt-ed-ōw	ažaštedō
+až-ašt-i-b	ažaštib
 až-ašt-i-le=m	ažaštilib
 až-ašt-il-i-b	ažaštilib
 až-i-a	ažia
 až-o-l-ai-n	ažulain
 až-o-l-ai=n	ažulain
-až-ož-ill-and-i-n	ažužellandin
-až-ož-ill-and-i=n	ažužellandin
+až-ān-ēd-āw	ažānēdāw
 až-ōl-a	ažōla
 až-ōġ-i-ež	ažōġiž
-až-ōž-ill-and-i-n	ažōžellandin, ažōžillandin
-až-ōž-ill-and-i=n	ažōžellandin, ažōžillandin
+ažamri	ažamri
 aži-o-l-ai	ažiwlai
 ažiuli-ai	ažiwlai
 ažmo.nigalō=n	ažmunigalōn
@@ -414,17 +435,19 @@ aʾ-ašt-et-t-a	āġaštetta
 aʾ-ašt-i=tta	āġaštetta
 aʾ-āšt-ed-aw	aġāštedab
 aʾ-āšt-ed-o	aġāštedu
-badniri	niri
+bad.niri	niri
 ebi-āe	ebāe
 ebāni	ebāni
 ed-a	eda
+ed-o	ēdu
 ed-o-kko	edukku
+ed-u	ēdu
 edi-a	eda
-eg+o+ni-na	egunna
-eg+o+ni-ne	egunni
-eg+o+ni-ne-e	egunni
 eg+o+nni	egunni
 eg+o+nni-a	egunna
+eg+o+nni-na	egunna
+eg+o+nni-ne	egunni
+eg+o+nni-ne-e	egunni
 eg+o+nni-ž	egunniž
 eg+o+šše	egušši
 eg+o+šše-na	eguššina
@@ -432,6 +455,7 @@ eg+o+šše-na-až-a	eguššinaža
 eg+o+šše-na-až-ož	eguššinažuž
 eg+o+šše-na-āž-ož	eguššinažuž, eguššināžuž
 eg+o+šše-āe	eguššāe
+eg+o+šše-āi	eguššāi
 eg+ud+ut+ki	egudutki, igudutki
 eg+ušš-i	egušši
 eg+ušš-ill-and-i-n	eguššellandin
@@ -442,13 +466,11 @@ eg+ušš-u+m+ae=lla	eguššumaella
 eg+ušš-umme	eguššummi
 eg+ušš-ōl-a	egōššōla
 eg-i	egi
-ege	egi
-ege+ni-ne-e=n	egennin
-ege+ni-ne-n	egennin
 ege+nni-n	egennin
 ege+nni-ne-ž	eginniniž
-ege-ne-e=mā	igēnemā
 egi	egi, igi
+egi-ai	egai
+egi-da	igida
 egi-i-až-a=ma	igiažama
 egi-i-až-ā=ma	igiažāma
 egi-i-da	igida
@@ -457,20 +479,23 @@ egi-na-āž-ož	egināžuž
 egi-ne	egini
 egi-ne-e	egini, egēni, igēni
 egi-ne-e=ma	igennima, igēnema
+egi-ne-e=mā	igēnemā
+egi-ne-e=n	egennin
+egi-ne-n	egennin
 egi-ne-ž	eginiž
+egi-nē-n	ēkkinēn
 egi-āe	egāe
 egi-āi	egāi
 egužri	egužri
-egēni	egēni, igēni
-egēni-ne-e=ma	igennima, igēnema
-egēni-ne-e=mā	igēnemā
 ela-na-až-a	ellaža
-elam+ir+ġe-na	elamirġena
 elami-nē-ve	elaminēve
+ele-ne-vā=d	elinibād
 eli-a	ela
 eli-na-až-a	ellaža
 eliški-ae=lla	eliškaella
 ell+a+že-a	ellaža
+elm+ir+ġe	ēlmirġi
+elm+ir+ġe-na	elamirġena
 elm+ē+ġe	elmēġi
 elmi	elmi
 elmi-na	ēlmina
@@ -480,6 +505,7 @@ elōruli-a	elōrula
 eman+že	emašše
 eman+že-ne	emaššeni
 eman+že-ne-e	emaššeni
+eman+že-ne-va	ēmmanzeneva
 en+ar+a+že-ae	enarāžae
 en+ar+a+že-āe	enaražāe
 en+ar+ġe-a=lla	enarġalla
@@ -488,16 +514,18 @@ en+ud+ōbi-n	enudōbin
 en+ud+ōbi=n	enudōbin
 en+ud-ō-va-en	enudōbin
 en+zari	ēnzāri
+en+zari-na	ēnzarra
 en+zari-ra	inzarra
-ene-ž	enež
+en-a=d	enad
 engida-ž=l	engidal
 eni	ene, eni
+eni-a=d	enad
 eni-na	ēnna
 eni-na-aš-ta	ēnnašta
 eni-na-āš-ta	ēnnāšta
 eni-āe	enāe
 eni-ž	enež
-enigaldi	enigaldi
+eningaldi-āe	iningaldāe
 enni-da	ennida
 enni-i-da	ennida
 enudōbi=n	enudōbin
@@ -511,24 +539,35 @@ erade-n	iraden
 erade-ne-ž	eradiniž
 erade-āe	eradāe
 erade=n	iraden
-erbī-na-āž-a	irbīnāža
 erižangi-āe	erižangāe
-erve-ne-ž	irveniž
-erāde	erādi
-erādi	erādi
+ervi	ērbi
+ervi-na-āž-a	irbīnāža
+ervi-ne-ž	irveniž, ērbinež
+erġi=ma	ērġima
 ev+ar+že	evarži
 evari-f-fa=an	evarip⸢fa?⸣an
 evari-f-fa=n	evarip⸢fa?⸣an
 evari-iffe-a=an	evarip⸢fa?⸣an
 evari-iffe-a=n	evarip⸢fa?⸣an
-ever+in+že-p-pe-ne-ne=m	everinžippininim
+ever+ni	ebirni, everne
+ever+ni-a	ebirna, ibirna
+ever+ni-na	ēbrinna
+ever+ni-na-až-ož	ibrinnažuž
+ever+ni-na-āž-ō-nna	ēbrināžōnna
+ever+ni-ne-va	ēbrinniba
+ever+ni-ne-ž	ēbrinniž
+evr+in+že	ēbrešši
+evr+in+že-p-pe-ne-ne=m	everinžippininim
 evren+ze-a	ibrinza
-evri+ni	ebirni, everne
-evri+ni-a	ebirna
-evri+ni-na	ēbrinna
-evri+ni-na-až-ož	ibrinnažuž
-evri+ni-na-āž-ō-nna	ēbrināžōnna
-evri+ni-ne-ž	ēbrinniž
+evri	ebri, ibri, ēbri
+evri-i-da	ebrida, ēbrida
+evri-i-va	ēbriva
+evri-i-vē	ēbrivē
+evri-i-ž	ēbrež
+evri-vē	ēbrivē
+evri-ē-da	ēbrēda
+evri-ī-da	ēbrīda
+evri-ž	ebrež, ēbrež, ēbriž
 eġ+epš-ulli=ma	eġepšullima
 eġ+epš-ullī=ma	eġepšullīma, šullīma
 eġi-ne-n	eġinen
@@ -536,6 +575,8 @@ eġl+i+ġe	eġliġi
 eġl-i-l-eva-š=nna	eġilli⸢fa⸣ašša
 eġli+ana-ž	eġlianaž, ēġlianaž
 eġli-ve	eġlibi
+eġli-ve-ne-da	eġlibinida
+eġli-ve-ne-ve-na-āž-a	eġlibinibināža
 ešk+ar+i-ne	eškarri
 ešk+ar+i-ne-e	eškarri
 eškāve	eškāve
@@ -546,8 +587,9 @@ eže-a	eža
 eže-na	ežena
 eže-ne	ežene, eženi
 eže-ne-e	ežene, eženi
-eže-ne-va	eženiva
-eže-ne-ve	eženive
+eže-ne-va	eženi, eženiva
+eže-ne-ve	eženi, eženive
+eže-ne-ve-a	eženi
 eže-ne-š=nna	eženišša
 eže-nē-ve	eženēbi
 ežeb.ābu-š=nna	ežebābušša
@@ -555,28 +597,30 @@ ežeb.ābu=n	ežebābun, eževabun
 fa-i-kki=mān	faikkimān
 fad-eġ-i-b	fadeġib
 fadeġi-b	fadeġib
+fael-i	faeli
+faeli	faeli
 fal-o-kko	falukku
 fand+a+ni	fandani, pandani
 fand+ar+i+nni-a	pandarinna
 fand+ar+i+nni-nā=ma	fandarinināma
+fand-ar-i	pandari
+fandi+n	fandin
 fandi-b	pāndib
 fandi-i-až-a=l	pandiažal
-fandi-n	fandin
-fandin	fandin
 faz+ur+a+nni	fazuranni, fa⸣suranni
 faġ-ed-aw	faġedab
 faġ-ōž-a	fāġōža
-faġarri-ne-ž	fariž
 faġr+a+že	faġraži
-faġr+o+bāde	paġrubādi
-faġr+o+bāde-a	fāġruwāda
-faġr+o+vāde	faġruwāde
+faġr+o+vāde	faġruwāde, paġrubādi
+faġr+o+vāde-a	fāġruwāda
 faġr+o+že	faġruži, paġruže, paġruži
 faġr+o+že-a	faġruža
+faġr-o-ež	paġruž
 faġri	fāġri
 faġri-a	paġra
+faġri-ne-ž	fariž
+faġri-ož	paġruž
 faġri-ā=ma	faġrāma
-faġē	fāġie
 fašt-o	faštu
 fašt-u	faštu
 fašš+ar+i-a	faššara
@@ -586,12 +630,13 @@ fašši	fašši
 faž+ūli=ma	fažūlima
 faž-a-b	fažab
 faž-a=mma	fažamma
+faž-i-a	pāžia
+faž-id-o	pāžidu
 faž-o-ež	fāžuž
 faž-u	fāžu
 faž-u+m+ai	fažumai
 faž-ēd-a	fažēda, pažēda
 faž-ūl-i=ma	fažūlima
-faži-ī-va	fāžīva
 felz-a-b	felzab
 fendi-a	fenda
 fir+iški	firiški
@@ -609,18 +654,21 @@ fondur+o+ni-ne-nna	fondurunnenna
 fondur+o+ni-ne=nna	fondurunnenna
 fondur+o+nni-nna	fondurunnenna
 fondur+o+nni=nna	fondurunnenna
+fonuġ+o+ni-na	fonuġunna
 fonuġ+o+nni-a	fonuġunna
-fonuġuni-na	fonuġunna
+for+all+ī+nni-i-ē	fōrālīnie
 for+all+ī+nni-iē	fōrālīnie
 for+all+ī+nnē	fōrālīnie
-for+āll+ī+nni-i-ē	fōrālīnie
 for+āna	forāna
 for+āna-a	forāna
 for-ed-i	foride
 for-i	fōri, pōri
+for-i-le	forili
 for-i-va-en-i=ma	forivaenima
 for-i=l	fōril
+for-i=ma	forima
 for-ošt-ugar-iž-a	pōruštugariža
+for-ud-o-m	purudum, pūrudum
 for-ušš-o-en-i=m	foruššuenim, foružuenim
 for-ušš-o-ēn-i=m	foruššuēnnim
 for-ēd-i	forēdi
@@ -629,20 +677,33 @@ for-ī=man	fōrīman
 foruššue+nni=m	foruššuenim, foruššuēnnim, foružuenim
 foruššueni-ne-e=m	foruššuenim, foruššuēnnim, foružuenim
 foruššueni-ne=m	foruššuenim, foruššuēnnim, foružuenim
+fovi-āi	fovāi
 fud+ar+i+nni-a=lla	fudarinalla, fūdarinalla
+fud+ol+i+m+a+šše	pudulimašši, pudulimāšši
+fud+ol+i+m+a+šše-na-až-a	pudūlimaššinaža
+fud+ol+i+m+a+šše-na=ma	pudūlimaššinama
+fud+ol+i+ni-āi	pudulināi
+fud+ō+re	pudūri, pūduri
+fud+ō+re-i-ž	pudūrež
+fud+ō+re-ž	pudūrež
 fud+ō+že-a	fudōža
-fud-o	fōdu
-fud-u	fōdu
+fud-o	fōdu, pūdu
+fud-o-ež	puduž
+fud-ošt-a-b-ā=l	pōduštabāl
+fud-u	fōdu, pūdu
 fud-ul-in-i-āi	pudulināi
 fud-ōšt-o	fudōštu
 fud-ōšt-u	fudōštu
 fud-ōž-a	fudōža
-fut+ki	pūtki
+fut+ki	putki, pūtki
 fut+ki-b	futkib
+fut+ki-da	putkīda
 fut+ki-i-ž	futkiž
 fut+ki-na	futkina, putkina
 fut+ki-ž	futkiž
+fār-a	fāra
 fār-i-e	fārie
+fāri-a	fāra
 fāri-i-e	fārie
 fāri-ie	fārie
 fārē	fārie
@@ -653,21 +714,27 @@ fāžani-ae	pāžanae
 fāžani-na	fāžanna
 fāžani-ne	fāžanni
 fāžani-ne-e	fāžanni
+fāžani-ne-e=l	pāžannel
+fāžani-ne-ž=l	pāžannel
+fāžani-ne=l	pāžannel
 fāžani-āe	pāžanāe
 fāži	fāže, fāži, pāži
 fāži-a=mma	fažamma
 fāži-b	pāžib
 fāži-da	pāžida
+fāži-i	pāži
+fāži-i-a	pāžia
 fāži-i-da	pāžida
 fāži-i-dan	fažidan
 fāži-i-va	pāžiba
 fāži-ož	fāžuž
+fāži-va	pāžiba
 fāži-ī-va	fāžīva
 fē-lla	fel
 fē-uda	fiwta
 fē-va	feva
 fē-ve	pēbi
-fē-ž-a	fēža
+fē-ž-a	fēža, pēža
 fē-ž-uda	fēžuda
 fē-ž-ūda	fēžūda
 fē-ž=l	fel
@@ -676,36 +743,38 @@ fēn+ā+ni-a	fēnāna
 fēn-ān-a	fēnāna
 fēḫḫ-ēd-a	fēḫḫēda
 fēḫḫi-ie-da	fēḫḫēda
-fōr+āll+ī+n+ze-i-ē	fōrālīzie
-fōr+āll+ī+n+ze-iē	fōrālīzie
-fōr+āll+ī+n+zē	fōrālīzie
-fōr-i-le	forili
-fōr-i=ma	forima
-fōr-ud-o-m	purudum, pūrudum
+fōnuġōn+že	fūnuġōnži
+fōr+all+i+n+ze	fōrālīzie
+fōr+all+i+n+ze-i-ē	fōrālīzie
+fōr+all+i+n+ze-iē	fōrālīzie
 fōri	fōri
 fōri-da	fōrida, pōrida
 fōri-f-fa=ān	fōriffān
 fōri-f-fā=n	fōriffān
 fōri-i-da	forida, fōrida, pōrida
+fōri-i-va	pōriba
 fōri-i=l	fōril
 fōri-iffe-a=ān	fōriffān
 fōri-iffe-ā=n	fōriffān
+fōri-va	pōriba
 fōri-ī-da	forīda
 fōri-ī=man	fōrīman
 fōri=ma	forima
 fōroli-na-až-ož=l	fōrullažul
 fōroli-ne	forul, fōrulli
 fōroli-ne-e	forul, fōrulli, pōrulli
+fōrunz+i+ġe	fōrunziġi
 fōrāli-ī-nē	fōrālīnie
 fōrālī-ne-ē	fōrālīnie
 fōrālī-nē	fōrālīnie
-fūnuġōn+že	fūnuġōnži
 fūr-u	fūru, pūru
 ibi	ibi
 ibi-ai	ibāi
+ibi-i=ma	ibima
 ibi-ne	ibini
 ibi-ne-e	ibini
 ibi=m	ibim
+ibi=ma	ibima
 ibr+ad+n+a+ni-na	ibradnanna
 ibr+ad+n+a+nni-a	ibradnanna
 ibr+ad+ni-a=nna	ibradnanna
@@ -718,33 +787,39 @@ id-i	idi
 id-i-a	idia
 id-i-l-ānni	idilānni
 id-ī-e	idīe
-ide-b	ideb
+ide	ide, idi
+ide-b	ideb, idib, idīb
 ide-b-ož	idebuž
+ide-b-uda	idibuda
+ide-b-ōda	idibōda
+ide-da	ideda, idida
+ide-i-a	idia
+ide-i-až	idiaž
+ide-i-až-a	ediaža, idiaža
+ide-i-da	edida, ideda, idida
+ide-i-va	ideba, idiba
+ide-i-ve	idibi
+ide-iffū-da	ideppūda
 ide-p-pa	ideppa
+ide-va	ideba, idiba
+ide-ve	idibi
+ide-ve-ne-ž	idevinež
 ide-ve-ož	idebuž
+ide-ī-da	idīda
+ide-ž-ūda	edežūda
 idenna-ne-ž	idennanež, idennaniž
 idenni	idenni
 idi	idi
-idi-b	idib, idīb
-idi-b-uda	idibuda
-idi-b-ōda	idibōda
+idi-b	idib
 idi-da	ideda, idida
-idi-i-a	idia
-idi-i-až	idiaž
-idi-i-až-a	ediaža, idiaža
-idi-i-da	edida, ideda, idida
-idi-i-va	ideba, idiba
-idi-i-ve	idibi
-idi-iffū-da	ideppūda
-idi-va	ideba, idiba
-idi-ve	idibi
-idi-ve-ne-ž	idevinež
-idi-ī-da	idīda
-idi-ž-ūda	edežūda
+idi-i-da	ideda, idida
+idi-i-va	itipa
+idi-va	itipa
 ieni-p-pe-n(e)-e=d	īnippinid
 ig-i	igi
 igi	igi
 igi-da	igida
+igi-i-da	igida
 igi-na	igina
 igingališ-va	igingališša, igingalīšša
 igingališ-ḫe-na=ma	igingališḫenama
@@ -752,6 +827,7 @@ igingališ-ḫe-nā=ma	igingališḫenāma, igingališḫināma
 igingališ-ḫī-na=mma	igingališḫīnamma
 ikk+amm+a+šše	ikkammašši
 il-ešk-a	ileška
+ilamd+ō+ġe	ilamdōġi
 ileški-a	ileška
 illaia-ġe	illaiaġe
 ilāvā-a=ān	ilāvān
@@ -770,20 +846,23 @@ ind+a+ni-ne=m	indannim
 ind+a+nni=m	indannim
 ind-i-anni=m	indannim
 ini-ve-āi	inibāi
-iningaldi-āe	iningaldāe
 inu	inu
+inu=[	inū
 inu=ma	inuma
 inu=mma	inumma
 inu=mē	inumē
 inu=tta	inutta
+inġ+ar+i-a	inġara
+inġ-a=d	inġad
+inġi-a=d	inġad
 ir-ad-i-en	iraden
 ird-i	irdi
+irde	irde, irdi, irti
+irde-b	irdib, īrdib
+irde-da	irdeda, irdida
 irde-i	irdi
+irde-i-da	irdeda, irdida
 irde-ī-ž	irdīž
-irdi	irde, irdi
-irdi-b	irdib
-irdi-da	irdeda, irdida
-irdi-i-da	irdeda, irdida
 irdōv+ā+nni-ne-ve	irdōvānninibi
 irial+zi	irialzi
 irn-a	irna
@@ -794,7 +873,9 @@ itk+o+re-ne-ž=lla	itkurinella
 itk+o+re-ne=lla	itkurinella
 itk+ud+ut+ki	itkudutki
 itk+ul+i+m+a+šše	itkulimašši, itkulimāšši, itkulumašši
-itk+und+ō+re	itkundōri
+itk+und+o+re	itkundōri
+itk-ašt-a	itkašta
+itk-ašt-i-b	itkaštib
 itk-i-a-ž	itkiaž
 itk-i-ai-š=nna	itkaišša
 itk-i-anni=m	itkannim
@@ -804,6 +885,7 @@ itk-ind-o-ež	itkinduž
 itk-o-ež	itkuž
 itk-o-ež-a=lla	itkužalla
 itk-o-l-ēž	itkulēž
+itk-ol-a	itkula
 itk-ol-u-nd-a-šše	itkulundašši
 itk-ol-āw-ž	itkulāuž
 itk-ož-ill-and-i-n	itkužellandin
@@ -816,14 +898,18 @@ itk-ā=l	itkāl
 itk-ō-ež	itkōž
 itk-ōl-a	itkōla
 itk-ōl-i	itkōli
-itkal+zi-a	itkalza
+itk-ōž-a	itkōža
+itkal+zi	itkalzi
+itkal+zi-a	itkalza, itkalzia
 itkal+zi-ai	itkalzai
 itkal+zi-ne-ve	itkalzinibi
 itkal+zi-ne-ve-na	itkalzinibina
 itkal+zi-ne-ve-na-až-ož	itkalzinibinažuž
 itkal+zi-ne-ve-na-āž-ož	itkalzinibināžuž
+itkal+zi-ne-ve-na-āž-ož=mma=an	itkalzinivināžummin
 itkal+zi-ne-ve-ne-ž	itkalzinibinež
 itkal+zi-ve-na-až-a=dil	itkalzibinažadel
+itkal+zi-ve-na-āž-a	itkalzibināža
 itkal+zi-āe	itkalzāe
 itkal+zi-āi	itkalzāi
 itkan+zi-a=lla	itkanzalla
@@ -854,6 +940,7 @@ iški-nna	iškinna
 iški=nna	iškinna
 išpiadi-i=l	išpiadil
 išt-i	išti
+išt-i-en=nna=ān	īštennān
 išt-o-m=ma	ištuma
 išt-o=ma	ištuma
 išt-u=ma	ištuma
@@ -869,6 +956,7 @@ ištani=n	ištanin
 ište	ište, išti
 ište=n	išten
 ište=nna=nan	ištennanan
+ište=nna=ān	īštennān
 išteni	išteni, išteniž
 išteni-f-fe=mma	išteniffāmma
 išteni-f-fā=mma	išteniffāmma
@@ -877,7 +965,6 @@ išteni-iffe=mma	išteniffāmma
 išteni-na=nan	ištennanan
 ištenni-a=n=an	ištennanan
 ištumi-a	ištuma
-ištāni	ištāni
 išḫara	išḫara, išḫāra
 išḫara-da	išḫarada
 išḫara-ž	išḫarā
@@ -899,6 +986,7 @@ iža+mme	ižammi
 iža+mme-ne	ižammēni
 iža+mme-ne-e	ižammēni
 iža-a	iža
+iža-ve-na	ižāvena
 iža-ve-ne-a	ižāvena
 iža-vē=ma	ežābēma
 iže-na	ižena
@@ -909,18 +997,17 @@ iži-ne-ž	ižinež
 iži-ve-āi	ižibāi
 iži-ve-āi=n	ižibāin
 iži-ī=ma	ižīma
+iži=ma	ižīma
 ižuġ+ni	ežuġni, ižuġni
 ižuġ+ni-ai	ižuġnai
-ižā-ve-na	ižāvena
-ižī=ma	ižīma
 ka+i+ġe-da	kaiġida
 ka+i+ġe-i-da	kaiġida
-kabali-ne-ž	kaballiž, kāballež
 kabl-i-āi	kablāi
+kabli-ne-ž	kaballiž, kāballež
 kabli-āi	kablāi
 kad-al-a	kādala
 kad-ašt-i	kādāšti
-kad-i	kādi
+kad-i	kadi, kādi
 kad-i-a	kadia, kādia
 kad-i-b	kadib
 kad-i-l-ēž	kadilēž
@@ -928,6 +1015,7 @@ kad-i-o	kadiw
 kad-i-ō-šše-na	kadiōššina
 kad-i=mma	kadimma
 kad-i=v	kadib
+kad-id-a	katta
 kad-il-i-le	kadilli
 kad-o-kko	kādukku
 kad-ol-i-en	kadulen
@@ -941,9 +1029,8 @@ kad-ōl-i-āī=n	kādūlāīn
 kad-ūv-a	kādōva
 kadi	kadi, kāde, kādi
 kadi-b	kadib
-kagani-da=ma	kaganidama
-kagani-i-da=ma	kaganidama
 kakkari	kakkari
+kakkari-a	kakkara
 kal-ō-vade	kalōvadi
 kal-ūw-a	kalūwa
 kalb-uġ-ēd-a	kalbuġēda
@@ -951,8 +1038,11 @@ kalgamiž-ož=l	kalgamižul
 kamali-ne-nna	kamallenna
 kamme	kāmmi
 kamme-ne-ž	kamēnež
+kammiššōri	kammiššōri
 kamv-i-d-a	kamveda
 kamve-da	kamveda
+kan+āg-i-ež	kanāgiž
+kan+āg-iž-a	kanāgiža
 kanagitḫe	kanagitḫi
 kangalvi-a=lla	kangalvalla
 kangalvi-ā=lla	kangalbālla
@@ -974,7 +1064,8 @@ kare-ne-ž	karinež
 karg+ā+ni	kargāni
 karg-ān-i	kargāni
 kariži-ī-da	karižīda
-karži	karži
+karži	karši, karži
+karži-b	karžib, kāržib
 karži-da	karžida
 karži-i	karži
 karži-i-da	karžida
@@ -982,38 +1073,47 @@ kat+ki	katki
 kat+ki-na-āž-ož	katkināžuž
 kat+ki-ne	katkini
 kat+ki-āi	katkāi
+kaġ+a+ni-da=ma	kaganidama
+kaġ+a+ni-i-da=ma	kaganidama
 kaš-t-i	kašti
+kaška=an	kaškan
+kaška=n	kaškan
 kašt-i	kašti
 kašti	kašti
 kažali-na	kažalla
+kaži-ne-vā=d	kažinibād
 kažiari	kažiari
 kažiari-ne-ne=l	kažiarrinel
 kažidabi=ma	kažidabima
 kažl-a	kažla, kāžla
 kažl-o-ež	kažluž
+kažl-o-l-ai-ž	kažlulaiž
+kažl-o-l-aē-ž	kažlulaēž
 kažl-o-l-ēž	kažlulēž
 kažl-ol-a=m	kažlulam
 kažl-ož-ill-and-i-n	kažlužellandin
 kažl-ož-ill-and-i=n	kažlužellandin
+kažl-ōž-a	kažlōža
 kažli-a	kažla, kāžla
+kažli-ož	kažluž
 ke-i-eva	kēba
 ke-ī-le	kīli
 keb+li	kibli, kēbli
 keb+li-na-až-ož	kibēllažuž
 keb+li-na-āž-ož	kēbillāžuž
-keb-a	kēba
+keb-i-b-ā=d	kibibād
+keb-i-eva=d	kibibād
+keb-uffu	kibuppu
 kel+di	kelde
 kel+di-ne-ve-āe	keldinibāe
 kel+di-āi	keldāi, kēldāi
 keli+gel-ešt-o-m	kiligileštum
 keni-na	kenna
 kenni-a	kenna
-ker+a+šše	kirašši, kēraži
-ker+a+šše=ma	kirāžima
 ker-āž-o-ež	kērāžuž
 kev+o+že-ož	kivožuž
 kev+o-že-ož	kivožuž
-kev-a	kēva
+kev-a	kēba, kēva
 kev-a-šše	kibašši
 kev-e	kibe
 kev-o-l-aē-š=nna	kibulaēšša
@@ -1023,11 +1123,11 @@ kev-ož-o-ež	kivožuž
 kev-ud-u	kivudu
 kev-ā-šše	kibāšši
 kev-ō-l-ež	kibōliž
-keveri-na	kiverra
-keveri-na-āž-a=n	kibirāžan, kivirāžan
-keveri-nā=m	kēvirrām
 kevi-a	kēva
-kevēri-na-āš-ta	kivērāšta
+kevri-na	kiverra, kēverra
+kevri-na-āš-ta	kivērāšta
+kevri-na-āž-a=n	kibirāžan, kivirāžan
+kevri-nā=m	kēvirrām
 keški	kēški
 kešše	kešše, kišši
 kešše-ne-da=l	keššenidal
@@ -1051,8 +1151,10 @@ kiaže-ne	kiāžēni
 kiaže-ne-da=an	kiaženidan
 kiaže-ne-da=n	kiaženidan
 kiaže-ne-e	kiāžēni
-kib+a+šše	kibašši, kibāšši
+kiaže=ma	kēažima
+kib+a+šše	kibašši, kibāšši, kībašši
 kib+o+re	kibure
+kib-a-šše	kībašši
 kibi	kibi
 kibridi-a=dil	kibridadel
 kibridi=dil	kibridadel
@@ -1074,10 +1176,11 @@ kinn+ār+i	kinnāri
 kinn-ār-i	kinnāri
 kip-t-an-ed-a	kiptaneda
 kippe	kibe
+kippe-na	kippēna
 kippi-ne-ž	kippinež, kippiniž, kīppinež
-kippē-na	kippēna
 kipt-an-ed-a	kiptaneda
-kir+a+že=ma	kiražima
+kir+a+šše	kirašši, kēraži
+kir+a+šše=ma	kiražima, kirāžima
 kir+ar+i+nni	kirarinni
 kir+ar+i+nni-a	kirarinna
 kir+ar+i+nni-i=l=am	kirarinnilam
@@ -1094,8 +1197,10 @@ kir-o-l-ēž	kirulēž
 kir-o=n	kirun
 kir-o=nna	kirunna, kīrunna
 kir-o=nnā	kirunnā
+kir-uġ-ed-a	kīruġida
 kire+n+ze	kirenze, kirenzi, kirinzi, kērenze
 kire+n+ze-a=mma	kīrenzamma
+kire-ne-da	kirinida
 kiri-āe	kirāe
 kirētte	kirētte
 kirġe	kirġe
@@ -1110,8 +1215,10 @@ kiž+ar+že-ne-ž	kižarženež
 kižipsōvāe	kižipsōvāe
 kiʾe-ne-ž	kiġenež
 kiḫḫe-ne-ž	kiġenež
+kol-a	kula
 kol-i-ež	kōlež
 kol-i-l-āe	kullāe
+kubaba-ve-āi	kubababāi
 kubāġi-ne-e=l	kubāġinel
 kubāġi-ne-ž=l	kubāġinel
 kubāġi-ne=l	kubāġinel
@@ -1124,12 +1231,14 @@ kul+am+ud+ut+ki	kulamudutki
 kul+am+ud+ut+ki-āi	kulamudutkāi
 kul+am+ō+rre-ne-ve	kulamōrrinibi
 kul+i+m+ā+šše-na-āž-a	kulimāššināža
+kul+i+mm+ā+šš+ō+ḫḫe-a	kulimmāššōḫḫa
 kul+u+mb-i	kulumbi
 kul-a	kula
 kul-am-ow	kulamū
 kul-d-i=m	kuldim
 kul-d-o=m	kuldum
 kul-i-l-āe	kullāe
+kul-ož-a-šše	kulužašši
 kul-ō-m=ma	kulōmma
 kul-ōr-o-m	kulōrum
 kul-ūr-o-m	kulūrum
@@ -1139,8 +1248,8 @@ kuli-a	kula
 kuli-na	kūlīna
 kulm+o+re	kulmuri, kulmōri
 kulm+o+re-na	kulmurina
-kulm+o+ri-ne	kulmurri
-kulm+o+ri-ne-e	kulmurri
+kulm+o+re-ne	kulmurri
+kulm+o+re-ne-e	kulmurri
 kulm-o	kulmu
 kulm-u	kulmu
 kulm-upp-a	kulmuppa
@@ -1165,11 +1274,10 @@ kumme	kummi
 kumme-ne	kummini
 kumme-ne-e	kummini
 kumme-ne-va	kummeni
-kumme-ne-ve	kummeni, kumminibi, kumminive, kumminivi
+kumme-ne-ve	kummeni, kummenive, kumminibi, kumminive, kumminivi
 kumme-ne-ve-ož	kumminivož
 kumme-nī-ve	kumminīve
 kumme=n=i=m	kumminim
-kummi-ne-ve	kumminive
 kumr+o+ḫḫe-ā=l	kumruḫḫāl
 kumri	kumri
 kumri-i-ē	kumrie
@@ -1177,7 +1285,7 @@ kumri-iē	kumrie
 kumrē	kumrie
 kumuḫši	kumži
 kund-i	kundi
-kundi	kundi
+kunde	kundi
 kune-ne-va	kuniniba
 kungallē	kungallē
 kunz-i+m+ai	kunzimai
@@ -1191,6 +1299,8 @@ kuruppi-a	kuruppa
 kut+kūd-a	kutkūda
 kut+kūdi-a	kutkūda
 kutk-ūd-a	kutkūda
+kutte-ne	kutteni
+kutte-ne-e	kutteni
 kutti-ae	kuttae
 kuttive+ni-na	kuttivenna
 kuttive-na	kuttivenna
@@ -1204,11 +1314,11 @@ kužuġ	kūžuġ
 kužuġ-fe	kužapḫi
 kābari-na	kābarra
 kād+ali-a	kādala
-kād-i	kadi
 kāde	kāde
+kāl-a	kāla
+kāli-a	kāla
 kāni	kāni
 kāri	kāri
-kārži-b	kāržib
 kāv-ā=lla	kāvāl
 kāvi-ā=l	kāvāl
 kāze	kāssi, kāzi
@@ -1217,7 +1327,6 @@ kāze-ož	kāzuž, kāžuž
 kāze-ōž	kāzōž
 kāššui	kāššui
 kāž-o-kko	kāžukku
-kēb+li	kēbli
 kēbi-na	kēbina
 kēbi-ne	kēbini
 kēbi-ne-e	kēbini
@@ -1239,19 +1348,13 @@ kēr-i-o-šše-ne-nna	kēriuššininna
 kēri-ie-ne	kērēni
 kērē-ne	kērēni
 kērē-ne-e	kērēni
-kēveri-na	kēverra
-kīaže=ma	kēažima
-kīb+a+šše	kībašši
-kīb-a-šše	kībašši
 kīdāvi-a	kīdāba
 kīdāvi-ae	kīdāvae
 kīge	kīge, kīgi
 kīge-i-āž-a	kīgiāža
-kīr-uġ-ed-a	kīruġida
 kīzir+že-ne	kīzirženi
 kīzir+že-ne-e	kīzirženi
-kīziri-ne-va	kīzirriva
-kīzīri-ne-va	kīzīrriva
+kīziri-ne-va	kīzirriva, kīzīrriva
 kīšk+ūpp+ē-ne-da	kīškūppēnida
 kōlm-a	kōlma
 kōlmi-a	kōlma
@@ -1261,8 +1364,8 @@ kōruppi	kōruppi
 kūdade-na	kūdadena
 kūg-o-kko	kūgukku
 kūm+de	kumdi
-kūmde-ne-ve-ne-e=n	kūmdenivenin
-kūmde-ne-ve-ne-n	kūmdenivenin
+kūm+de-ne-ve-ne-e=n	kūmdenivenin
+kūm+de-ne-ve-ne-n	kūmdenivenin
 kūmuri-ne-da	kūmurrida
 kūžaġ	kūžaġ
 labla+ḫḫe-ne	lablaḫḫini
@@ -1275,20 +1378,30 @@ laġlaḫḫi-ne-e	laġlaḫḫini
 leli	lēli
 lull+i+mb+ar+i-a	lullimbara
 lullue-ne-ve	lullueneve
-mad-ōl-i	madōli
+mad-l-a	madla
+madl-a	madla
+madli-a	madla
+magalde-ne-ve	magaldenibi
+magaldi-ne-va	magaldiniba
+magaldi-ne-ve-na-āž-a	magaldinibināža
+magaldi-ne-vā=d	magaldinibād
+mal-a	mala
 mal-i-āe	malāe
+mal-ož-a-šše	kulužašši
 mali	māli
+mali-a	mala
 mali-āe	malāe
 mall+ade-ae=l	malladael
 malvāži	malvāži
 mamm+o+re-ne-e	māmmurine
-man-a	mana
+man-a	mana, māna
 man-a=l	mānal
+man-uda	mānuda
 man-z-a	manza
 man-z-ōra	manzōra
 man-z-ōž	manzōž
-mana	mana
 mandukki-ae=lla	mandukkaella
+mandukki=mma	mandukkimma
 mannamištu=n	mannamištun
 manne	mānie, mānni
 manu-a=tta=an	mānattan
@@ -1300,11 +1413,18 @@ manu-ž-ōž	manzōž
 mar+i+šḫe	marešḫi
 mar-ašt-i	marašte
 mar-i	māri
+mar-ož-i	maruži
+mar-ud-a	maruda
 marašte	marašte
+mardam+a+ni-ne	mardamanni
+mardam+a+ni-ne-e	mardamanni
+mardam+a+nni	mardamanni
+mardamanni	mardamanni
 mari	māri
 marne-ne-e=l	marninel
 marne-ne=l	marninel
 maroži	maruži
+marudi-a	maruda
 mazanuri	mazanuri
 maētta+ni-a	maēttana
 maġ-ār-a	maġāra
@@ -1324,11 +1444,18 @@ mini	mini
 mir+e+šḫi-ne	mirešḫini
 mir+e+šḫi-ne-e	mirešḫini
 mir+ul+avi-ā=l	mirulavāl
+mirž-i-āe	miržāe
 mirž-ā=l	miržāl
 mirži-ā=l	miržāl
+mirži-āe	miržāe
 mirži=l	miržāl
 miġ-ō-m	miġōm
 mor-i-l-āe	murrāe
+morri-na	murrina
+morri-ne-va	murriniba
+mun-o-ež	munuž
+mun-uġ-ož-i-l-āi	munuġuželāi
+muni-ož	munuž
 munġ-ī-e	munġīe
 munġi-ī-e	munġīe
 munġi-īe	munġīe
@@ -1343,7 +1470,8 @@ murġulišti-a	murġulišta
 muž+u+ni	mužūni
 muž+u+ni-na	mužunna
 muž+u+ni-ne-ž	mužunnež, mūžunnež
-mužuni-ž	mužuniž, mužunniž
+mužoni-ž	mužuniž, mužunniž
+mužuni-ne-va	mužunniba
 mužunni	mužunni
 mā=n	mān
 mā=ān	mān
@@ -1353,11 +1481,15 @@ mād-il-i-le=lla	mādillilla
 mād-t-a	mātta
 mād-t-a=l	māttal
 mād-uw-a	māduwa
+mād-ōl-i	madōli
 mādi	mādi
+mādi-a=[	mada
 mādi-a=ffa	madaffa, madappa, mādaffa, mādappa
 mādi-ai	mādai
 mādi-da	mādida
 mādi-i-da	mādida
+mādi-i-e	mādie
+mādi-ie	mādie
 mādi-na	mādena
 mādi-na-až-a	mādinaža
 mādi-ne-ve	mādinivi
@@ -1369,14 +1501,11 @@ mādilli-i=lla	mādillilla
 māl+ō+žē-na	mālōžēna
 māl-i	māli
 mām+o+re-ne-ve	māmurinibi
-mān+a	māna
+mān+a	mana, māna
 mān+a=l	mānal
+mān+a=tta=an	mānattan
 mān+g+a	mānga
 mān+o+re-a	mānura
-mān-a	māna
-mān-uda	mānuda
-māna	māna
-māna=tta=an	mānattan
 mānn-a=tta=an	mānattan
 mānn-e=tta=an	mānattan
 mānn-o-bōr	mānnubōr
@@ -1384,6 +1513,8 @@ mānn-ō-bor	mānnōbur
 mānnuwali-ne	mānnuwalli
 mānnuwali-ne-e	mānnuwalli
 mānnuwalli	mānnuwalli
+māġri	māġri
+māški	māški
 mēg-umme	mēgummi
 mēgi	mēgi
 mēgi-ne-va	mēginiva
@@ -1398,17 +1529,19 @@ mīri-nē-ž	mīrrīž
 mōri-ne	mōrri
 mōri-ne-e	mōrri
 mōrri	mōrri
+mōrri-na	mōrrina
 mōrri-ne-vā=dil	mōrrinibādel
+mū+i+re	muw-iri
 mūgižanun	mūgižanun
 mūnurimi-ne-da	mūnuriminida
 mūž-i-b	mūžib
 mūž-ēd-ā	mūžēdā
 mūž-ōl-ō-m	mužōlōm
-n=ašta	našta
 na+i+ġē-na	naiġēna
 na+i+ġē-ne-a	naiġēna
 nab+ar+i-ne-va	nabarriba
 nabarbi	nabarbi
+nabarbi-ne-da	nabarbinida
 nabarbi-ne-ve	nabarbinibi, nabarbinie
 nabarbi-ne-ē	nabarbinie
 nabarbi-nē	nabarbinie
@@ -1421,9 +1554,11 @@ nabni-da	nabnida
 nabni-i-da	nabnida
 nabni-ī-da	nabnīda
 nagēri	nagēri
+nai-na-až-ož	nāinažuž
+nai-na-āž-ož	nāināžuž
 nai-īa-nē	naīanie
-naie-na-āž-a	naēnāža
 nak-t-i	nakti
+nakk+a+šḫe-a	nakkašḫa
 nakk-ed-aššo	nakkidaššu
 nakk-ed-aššō	nakkidaššō
 nakk-ed-āw-ž	nakkidāōž
@@ -1435,6 +1570,7 @@ nakk-i-ōffu-ž	nakkiōffuž
 nakk-i-ōššo=nnā	nakkiōššunā
 nakk-i=lla=ān	nakkillān
 nakk-i=ma	nakkima
+nakk-uffu	nakkuppu
 nakt-i	nakti
 nakti	nakti
 nakti-b	naktib
@@ -1442,9 +1578,11 @@ namli-a	namla
 namli-na-āž-a	nammallāža, nāmallāža
 namni-va	namniva
 natk+āmm+a+ni-na-āž-a	natkāmmannāža
+natḫi-a	nātḫa
 natḫi-ne-n	natḫinen
 nau+ni-na-až-a	naunnaža
 nau+ni-ne-ve	naunnibi
+nau+ni-ne-ve-na	nāw-unnebina
 nau+ni-ne-ž	naw-unnež
 nau+ni-ī-e	nawnībuwe
 nau+ni-īffu-we	nawnībuwe
@@ -1462,6 +1600,7 @@ nave-ne-ve	naveni
 nave-ne-ž	navenež
 nave=ma	nābima
 naġmazuli-ž=l	naġmazulel
+naīa-na-āž-a	naēnāža
 naīa-ne-ve	naīanie
 naīa-ne-ē	naīanie
 naīa-nē	naīanie
@@ -1472,10 +1611,9 @@ nažāgi	nažāgi
 naḫḫ+a+šše-na	naḫḫaššina
 naḫḫ+o+bade-oš=nna	naḫḫubaduššā, naḫḫubāduššā
 naḫḫ+o+bade-ož	naḫḫubaduž
-naḫḫ+o+že-a	naḫḫuža
+naḫḫ+o+že-a	naḫḫuža, naḫḫōža
 naḫḫ+ō+tḫe-da	naḫḫōtḫida
 naḫḫ+ō+tḫe-i-da	naḫḫōtḫida
-naḫḫ+ō+že-a	naḫḫōža
 naḫḫ-a	naḫḫa
 naḫḫ-a-b	naḫḫab
 naḫḫ-a-šše-na	naḫḫaššina
@@ -1488,37 +1626,39 @@ naḫḫ-ōž-u	naḫḫōžu
 negri	negri, nigri
 nelġ-a	nelġa
 nelġi-a	nelġa
-ner-i	neri, nēri
+nera	nēra
 nera-a	nēra
 nera-i	neri, nēri
 nera-i-da	nirida, nirīda, nērida
 nera-iē-da	nerēda
+nera-ra	nērara
 nera-ve	nēravi
 nera-ī-da	nerīda
 neri	neri, nēri
+neri-a	nēra
 neri-i-da	nerīda
 neri-ie-da	nerēda
 neġer+ni-a	neġirna
-nešše	nešši
-nešše-na	neššēna
-nešši	nešši
+nešši	nešši, nēšši
 nešši-da=l	neššidal
 nešši-i-da=l	neššidal
+nešši-na	neššēna
+nešḫi-na	nešḫina
 nibri-a	nibra
 nig-a	niga
 nigallu-we	nigalluw-e
 nigalō-va	nigalōba
 nigi-a	niga
 nikkal	nikkal
-nikkalu-ž=l	nikkalul
-nikkalu=l	nikkalul
+nikkal-už=l	nikkalul
+nikkal=l	nikkalul
 nil-ō-ež	nilōž
 nili-ōž	nilōž
 ninuwa+ġe-ne-š=nna	ninuwaġinešša
 ninuwa-va	ninuwava, ninuwāva
 ninuwa-ve	ninuwāve, nīnuwave
 ninuwa-ḫe-ve	nīnubapḫi
-nippilōva-a	nippilōva
+nippilova-a	nippilōva
 nir+o+bāde	nirubādi
 nir+ud+i-a	niruda
 nir-i-b	nīrib
@@ -1526,6 +1666,7 @@ nir-ud-a	niruda
 niri-b	nīrib
 niri-da	nirida
 niri-i-da	nirida, nirīda
+niri-āe	nirāe
 nirġ-ud-i-b	nirġudib
 nirġi-a	nirġa
 niv-ōž-ill-and-i-n	nivōžellandin
@@ -1535,18 +1676,16 @@ niviri-iffe	niviriffi
 niġar+že	niġarži
 niġari	niġāri
 niġari-na	niġarra
-niġe	niġe
+niġe	niġe, niġi
 niġe-f-fe	niġeffi
-niġe-iffe	niġeffi
-niġi	niġi
-niġi-iffe	niġippi
-niġi-p-pe	niġippi
+niġe-iffe	niġeffi, niġippi
+niġe-p-pe	niġippi
 noi-a=l	nōial
 nor+i+ġe-ne	nōriġini
 nor+i+ġe-ne-e	nōriġini
-nu=kan	nukan
 nubi	nūbi
 nubi-n	nubin
+nubi-nē-n	nūbīnīn
 nubi=n	nubin
 nubur+ni-a	nuburna
 nudan+z+a+ġe-ī-va=an	nudanzaġīvan
@@ -1555,8 +1694,7 @@ nul+ade-ne-ž	nuladenež
 numri-i-ve	numribi
 numri-ve	numribi
 nur+ā+šše	nurāšše
-nurandiġi-ne-nna	nurandiġinina
-nurandiġi-nna	nurandiġinna
+nurandiġi-nna	nurandiġinina, nurandiġinna
 nuri-na-až-a	nūrraža
 nutk+i+ġe-a	nutkiġa
 nuġ+o+ni-a=m	nuġunab
@@ -1564,8 +1702,8 @@ nuḫḫ+a+že	nuḫḫaže
 nā-uff-a	nāuffa
 nāb-u	nābu
 nāb-ū=ma	nabūma
-nāi-na-až-ož	nāinažuž
-nāi-na-āž-ož	nāināžuž
+nāie-na-āž-a	nāēnāža
+nāie-ne-va	nāēniba
 nāl-i	nāli
 nāldiri	nāldiri
 nāli	nāli
@@ -1579,8 +1717,6 @@ nān-ind-o-eš=nna	nānindušša, nāninduža
 nān-ād-o-m	nanādum
 nāni-ž	nāniž
 nāri+šše	nārišše
-nātḫi-a	nātḫa
-nāū+ni-ne-ve-na	nāw-unnebina
 nāū+nni	nāw-unni
 nāū+nni-na	nāw-unnina
 nāū+nni-ve-na	nāw-unnebina
@@ -1591,6 +1727,8 @@ nēl-a-b=an	nēlaban
 nēla-b-a=an	nēlaban
 nēla-b-a=n	nēlaban
 nēla-b=an	nēlaban
+nēli	nēli
+nēli-a	nēla
 nēli-a-v=an	nēlaban
 nēli-a=v=an	nēlaban
 nēli-na	nēlla
@@ -1599,12 +1737,9 @@ nēli-ōž	nilōž, nēlōž
 nēr+ni	nērne
 nēr-a	nēra
 nēr-ed-a	nērida
-nēra	nēra
-nēra-ra	nērara
-nēri-a	nēra
+nēr-i	neri, nēri
 nēri-da	nērida
 nēri-i-da	nērida
-nēšši	nēšši
 nīn-ād-o-m	nīnādum
 nīv+ar+i-i-ož	nīvarīuž
 nīv+ā+že	nīvāži
@@ -1616,7 +1751,6 @@ nōvi-ā=n	nōvān
 nōġašše-ne	nōġaššeni
 nōġašše-ne-e	nōġaššeni
 nū-ind-o-ež	nuw-induž
-nūbī-nē-n	nūbīnīn
 nūd+o+že-a	nūduža
 nūd-o	nūdu
 nūd-ož-a	nūduža
@@ -1641,20 +1775,41 @@ oli-ne	ulli, ōlli
 oli-ne-e	ulli, ōlli
 oli-ne-ne	ōllini
 oli-ne-va	ulliva
+oll+uġ+o+že-ve-āe	ulluġužibāe, ulluġōžibāe
+oll+uġ+o+že-ve-āi	ulluġužibāi
+oll+uġ-i-ae=nna=ān	ōlluġaennān
+oll+uġ-i-aī=nna	ōlluġaīnna
+oll+uġ-o-m	ōlluġum
+oll+uġ-ož-ill-and-i-n	ōlluġužellandin
+oll+uġ-ož-ill-and-i=n	ōlluġužellandin
+oll+uġ-ož-ill-i-āi-n	ulluġužellāin
+oll+uġ-ož-ill-i-āi=n	ulluġužellāin
+oll-o-l-ež	ulluliž
+oll-uġ-ēd-i	ulluġēdi
+olvi-ne-e	ōlbīni
 olvi-ne-ē=ma	ūlvinēma
 omini-a	umina
 omini-na	uminna, ōmminna
 omini-na-až-a=ma	uminnažama
 omini-na-āž-a	uminnāža, umminnāža
 omini-na-āž-e	uminnāži
-omini-ne-e	ōmminni
+omini-ne	umin
+omini-ne-e	umin, ōmminni
 omini-ne-vā	ōmmennivā
 omini-ī-e	uminīe
 omini-īe	uminīe
+ondu=l	undūl
+ondu=ma	ōnduma
+onnu	unnu, ōnnu
 or+o+nni	urunni
+or+o+nni-da	urunnida
+or+o+nni-i-až	urunniaž
+or+o+nni-i-da	urunnida
+or+o+nni-ia-ne	urunniaž
+or+o+nni-n	urunnin
+or+o+nni=n	urunnin
 or-o	uru
 or-u	uru
-ori-ī-da	urīda
 orurmili-ī-až	ururmilīaž
 ove-ne-ž	ubinež, uwenež
 ove=n	ubīn
@@ -1662,6 +1817,17 @@ oġ+ni	uġni
 oġ+o+ni	uġōni
 oġ+ō+šše-āi	uġōššāi
 oġ+ōž+a+mā+šše	uġōžamāšši
+ošt+a+šše-n	uštaššin
+ošt+a+šše=n	uštaššin
+ošt+i+ġe	uštiġi
+ošt-a-b	uštab
+ošt-an-ēd-i	uštanēdi
+ošt-ed-i-a	uštedia
+ošt-i-ae	uštae
+ošt-o	ōštu
+ošt-u	ōštu
+ošt-ur-a-b	ušturab
+ošt-ā-b	uštāb
 pa+i+re-i=ma	pairima
 pa+i+re-iffu-we	pairibuwi
 pa+ilia-ne-ž	pailianež
@@ -1672,26 +1838,37 @@ paba+ni-na-aš-ta	favanašta
 paba+ni-na-až-e	pabannaže
 paba+ni-na-až-ož	pabannažuž
 paba+ni-na-āž-e	pābannāže
-paba+ni-ne-e	pabanni
+paba+ni-ne	pābanni
+paba+ni-ne-e	pabanni, pābanni
 paba+ni-ne-ž	pabanniž
-pabā+ni	pabāni
 padn-i	padni
 padni	padni
+pag+a+mme-ož	pagammuž
 pag+ī+nnī-ne-e=l	pagīnīnel
 pag+ī+nnī-ne-ž=l	pagīnīnel
 pag+ī+nnī-ne=l	pagīnīnel
+pag-amm-o-ež	pagammuž
 pagī-nī-ne=l	pagīnīnel
 paib.ebla-ž	paibiblaž
 paib.ebla=an	paibiblan
 paib.ebla=n	paibiblan
 paini	paini
 paini-b-a-ne=l	painibanel
+paini-ne-va	pāinnia, pāīnnia
+paini-ne-ž	pāinniž
+pal-aġ-a	palaġa
+pal-aʾ-a	palaġa
+pal-aḫḫ-a	palaġa
+pal-i-a	palia
+pal-i-kki=mma	pālikkamma
+pal-i-o	pāliw
+pal-o-kko	pālukku
 palaġi-a	palaġa
 palaʾe-a	palaġa
 palaḫḫi-a	palaġa
 pand+ar+i	pandari
-pand-ar-i	pandari
 pandi-i-až-a=l	pandiažal
+panniri-a	pannira
 par-i-a	paria
 pari-ož	paruž
 pariss+ade	parissade
@@ -1707,7 +1884,6 @@ pattōri-a=lla	tōrala
 paġ+and+ar+i-ne	paġandarri
 paġ+and+ar+i-ne-e	paġandarri
 paġ+li	paġli
-paġ-ēd-a	paġēda
 paġmi	paġmi
 paīnni-ne-ve-ož	paīnninibuž
 pašš+ar+ugār+i-a	paššarugāra
@@ -1723,6 +1899,8 @@ pen-d-o	pendu
 pen-d-u	pendu
 pen-id-o	pendu
 pend-a	fenda, penda
+pend-a-b	pindab
+pend-aʾ-ol-d-a	pindaulda
 pend-i-l-eva-ž	pindilivaž
 pend-id-o	pendidu
 pend-iž-a	pendiža
@@ -1733,26 +1911,26 @@ pend-u	pendu
 pend-uw-a	pindu
 pend-uġ-a	pendūġa
 pend-ō=n	pendōn
+pend-ōl-i	pindōli
 pend-ūw-a=lla	pendōvalla
 pid+o+šše-da	piduššida
 pid+o+šše-i-da	piduššida
 pid+uff-a	piduffa
 pid-i-a	pidia, pīdia
+pig-a	piga
+pigi-a	piga
 pil+āġ+i+šše+li+ġe-a	pilāġižiliġa
 pili-na	pella, pilla
 pilla-nē-va	pillanēva
-pille-a	pilla
+pille-a	pella, pilla
 pille-ne-e	pellēni, pillēni
 pille-nē-va	pīellēnī
 pille-nē-ve	pīellēnī
-pilli-a	pella
-pind-a-b	pindab
-pind-aʾ-ol-d-a	pindaulda
-pind-ōl-i	pindōli
 pindaia+ni-ne	pindaianni
 pindaia+ni-ne-e	pindaianni
 pindaia+nni	pindaianni
 pir+ugāri-a	pirugāra
+pir+und+ō+ġe-a	pirundōġa
 pir-ed-a	pirida
 pir-ugār-a	pirugāra
 piri-da	pirida
@@ -1762,12 +1940,16 @@ piri-ne=v	pirrib
 pirr-i-b	pirrib
 pirr-i=v	pirrib
 pirri-b	pirrib
+pirund+ō+ġe-a	pirundōġa
+pitkiri-a	pitkira
 pittugalli-i-až	pittugalliaž
 pittōrali-a	tōrala
 pittōri-a=lla	tōrala
 pizigarra	pizigarra
 pizigarra-ž	pizigarraž
 piġ-ī-e	piġīe
+piġi-da	piġida
+piġi-i-da	piġida
 piġi-ī-e	piġīe
 pišḫ-i	pišḫi
 pišḫi	pišḫi
@@ -1775,20 +1957,12 @@ piž+ešḫ-o-m	pižešḫum
 pižiri-ne	pižirri
 pižiri-ne-e	pižirri
 pižāiš.pā-ne=l	pižāišpānel
+poe-na-āž-ož	puenāžuž
 poli-ne-ve-āe	pullibāe
 poli-ne-ž	pullež, pōllež
 pošš+i+nni	puššinni
-pošši-nni	puššinni
-pud+ul+i+m+a+šše	pudulimašši, pudulimāšši
-pud+ul+i+m+a+šše-na-až-a	pudūlimaššinaža
-pud+ul+i+m+a+šše-na=ma	pudūlimaššinama
-pud+ul+i+ni-āi	pudulināi
-pud+ū+re	pudūri, pūduri
-pud+ū+re-i-ž	pudūrež
-pud+ū+re-ž	pudūrež
-pud-o-ež	puduž
+pugl-b-a	pugulba
 pugl-āl-a	puglāla
-pugul-b-a	pugulba
 pugulbi-a	pugulba
 pul+idi-ve-āe	pulidibāe
 puli-ne-ž	pulliž
@@ -1798,8 +1972,7 @@ pur+i+rē+nni	purrēnni
 pura+mmi-b	purammib
 pura+mmi-iffu-wa=an	purammippuwan
 pura+mmi-iffu-wa=n	purammippuwan
-puramdi	puramdi
-purandi	purandi
+purandi	puramdi, purandi
 purandi-ne-ž=l	purandinel
 puranziḫ-ve-na-āž-a	puranzipḫināža
 purra-nna	purranna
@@ -1811,8 +1984,6 @@ purġ-a	purġa
 purġi-a	purġa
 puss-a	pussa
 pussi-a	pussa
-put+ki	putki
-put+kī-da	putkīda
 put+t+i+ġe-i-ž	puttiġiž
 put+t+i+ġe-ž	puttiġiž
 puġuiri-da=ma	puġuiridama
@@ -1822,22 +1993,14 @@ pā+i+nni-i-a	pāinnia, pāīnnia
 pā+i+nni-i-ž	pāinniž
 pā+i+nni-ž	pāinniž
 pā-ašt-ō-m	pāštōm
-pāb+a+ni-ne-e	pābanni
-pāba+ni-ne	pābanni
+pābel+ġe-a	pābelġa
 pāeni-b	pāenib
 pāeni-b=ma	pāenippa
 pāeni-p-pa	pāenippa
-pāini-ne-va	pāinnia, pāīnnia
-pāini-ne-ž	pāinniž
 pāiri-na	pāirra
-pāl-aġ-a	palaġa
-pāl-aʾ-a	palaġa
-pāl-aḫḫ-a	palaġa
-pāl-i-a	palia
-pāl-i-kki=mma	pālikkamma
-pāl-i-o	pāliw
-pāl-o-kko	pālukku
-pālī	pālī
+pāl-ā	pālā
+pāli	pālī
+pāli-ā	pālā
 pār+i+r+o+ni-ne	pārirunni
 pār+i+r+o+ni-ne-e	pārirunni
 pār+i+r+o+nni	pārirunni
@@ -1866,12 +2029,13 @@ pāttīvori-ne-va	pāttīvorriva
 pāġ-ed-a	pāġida
 pāġ-ed-aw	paġedab
 pāġ-ed-ōw	pāġidō
+pāġ-i-ež	pāġiž
 pāġ-id-e	pāġidi
 pāġ-ēd-a	paġēda, pāġēda
 pāġ-ōž-a	pāġōža
 pāġ-ū=ma	pāġūma
 pāġani-a	pāġana
-pāġi	pāġi
+pāġi	fāġie, pāġi
 pāġi-b	pāġib
 pāġi-da	pāġida
 pāġi-i-až-a	pāġiaža
@@ -1881,19 +2045,23 @@ pāġi-i-va	pāġiba
 pāġi-ie	fāġie
 pāġi-va	pāġiba
 pāġi-ī-da	pāġīda
+pāġi-ž	pāġiž
 pāġilāe-na	pāġilāena
 pāšš+i+tḫe	paššitḫi
 pāšš+i+tḫe-ā=d	pāššitḫād
 pāšš+i+tḫe=d	pāššitḫād
 pāž+a+nni-i=l	pāžannel
 pāž+a+nni-ž=l	pāžannel
-pāžani-ne-e=l	pāžannel
-pāžani-ne-ž=l	pāžannel
-pāžani-ne=l	pāžannel
-pāži-i	pāži
+pāž-i-a	pāžia
+pāži	paši, pāži
+pāži-b	pāžib
+pāži-da	pāžida
+pāži-i-a	pāžia
+pāži-i-da	pāžida
+pāži-i-va	pašipa
 pāži-iē-ne	pāžēni
 pāži-ne-da	pāžinida
-pāži-va	pāžiba
+pāži-va	pašipa
 pāži-āe	pažāe, pāžāe
 pāžē-ne	pāžēni
 pāžē-ne-e	pāžēni
@@ -1910,27 +2078,29 @@ pēž-an-o-m	pēžanum
 pīd-uġ-o	piduġu
 pīd-uġ-u	piduġu
 pīdi-i-a	pidia, pīdia
-pōd-ošt-a-b-ā=l	pōduštabāl
+pōe-na-až-ož	pōenažuž
 pōe-na-āž-ož	puenāžuž, pōenāžuž
 pōe-ne-ve	pōenibi
 pōnġi-b	pōnġib
+pōr+idi-āi	pōridāi
 pōranade-ne-va	pōranadeniba
 pōss-o	pōssu
 pōss-u	pōssu
 pōšši	pōšši
 pōšši-b	pōššib
+pōšši-nni	puššinni
 pūd+ang-i-āi	pūdangāi
-pūd-o	pūdu
-pūd-u	pūdu
 pūe-ne	puw-eni
 pūe-ne-e	puw-eni
 pūrānadi	pūrānadi
 pūz+iġ-o-m	pūziġub, pūziġum
+sabal+gi-na	sabalgina
 sabal+gi-āi	sabalgāi
 sabari-ne	sabarri
 sabari-ne-e	sabarri
 sabl+a+šše	sablašši
 sabl+ung+i	sablungi
+sabl-ōž-a	sablōža
 sabl-ōž-o	sablōžu
 sabri	sabri
 sakkandi	sakkandi
@@ -1952,6 +2122,8 @@ selmi	selmi
 serrē-ne-ž	serrēnež
 sib+ar+i-i-va	sibariba
 sib+ar+i-va	sibariba
+sib-i	sibi
+sibi	sibi
 sig+al-d-i	sigaldi
 sig+al-d-ož-i	sigalduži
 sig+ar+ulli-ne-ž	sigarullinež
@@ -1965,9 +2137,13 @@ sikk-ulli	sikkulli
 sikk-ōġ-a	sikkōġa
 sikk-ūlli	sikkūlli
 silm+an-ed-aw	selmanidab, silmanidab
+sim+id+ade-ož	simidaduž
+sim-id-ad-o-ež	simidaduž
+simid+ade-a	simidada
 simmi-ne-ve	simminie
 simmi-ne-ē	simminie
 simmi-nē	simminie
+sips+i+ḫḫe-a=tta	sipsiḫḫatta
 siss-ō-m	sissōm
 sitk-a-b	sitkab
 sitk-ōl-i	sītkūli
@@ -1981,12 +2157,12 @@ sukk-i	sukki
 sukki	sukki
 sul+gi	sulgi
 sul+ud-a	sulūda
+sul+ud-e	sūlūde
 sul+ud-ol-o-m	suludulub
 sul+ud-ō-ēn	sulōdōēn
 sul+ō+že-ne-ve	sulōženie
 sul+ō+že-ne-ē	sulōženie
 sul+ō+že-nē	sulōženie
-sul+ūd-e	sūlūde
 sumġar	sumġar
 sur+u+ški	suruški
 sur+ung+i	surungi
@@ -2058,6 +2234,7 @@ tab-ōž-ud-a=m	tābōžudam
 taba+li-ne-ž	taballiž
 tabakki-a	tabakka
 tabrani	tabrāni
+tabrani-a	tabrāna
 tabri-a	tabra
 tad+a+ni-da	tadanida
 tad+a+ni-i-da	tadanida
@@ -2066,31 +2243,33 @@ tad+ugar+i-āe	tadugarāe
 tad+ugar+i-āi	tādugarāi
 tad-an-ed-a	tadanida
 tad-id-en	tattin
-tadi-āe	tadāe
 tado.ḫeba-va	taduġebāba
-tado.ḫeba-ve	taduġebābi
+tado.ḫeba-ve	taduġebābi, tāduġebābi
 tado.ḫeba=an	taduġeban
 tado.ḫeba=n	taduġeban, taduġevan
+tado.ḫebā-va	taduġebāba
+tado.ḫebā-ve	taduġebābi
 tag-o-l-aē-ž	tagulaēž
 tag-o-l-āe-ž	tagulāež
-tag-o-l-ēž	tagulēž
+tag-o-l-ēž	tagulēž, tāgulēž
 tage+že	tagiže, tagēže, tāgiže, tāgiži
 tagi	tagi, tāgi
 tagi=ma	tagima
 tal+āḫḫ-id-o	talaḫḫidu
 tal+āḫḫ-o-m	talaḫḫum, talāḫḫum, tālāḫḫum
+tal+āḫḫ-ī-b	tālāḫḫīb
 tal-ašt-aw	talaštaw
 tal-aḫḫ-ō-m	talaḫḫōm
 tal-i	tali
 tal-i-a	tālia
 tal-i-le	tali
+tal-ā=lla	tālāl
 tal-ī-a	talīa
 tal-ōl-īž-a=nna	tālūlīžanna
 talam+d-i-b	talamdib
 talam+d-i=v	talamdib
 talam+di-b	talamdib
-talav+ō+že-na-až-a	talabōžinaža
-tale	tali
+tale	tali, tāli
 tale-b=ma	talippa
 tale-i-a	tālia
 tale-iffe-a	talippa
@@ -2102,14 +2281,16 @@ talm+a+ni-a=lla	talmanalla
 talm+oḫḫe-a	talmōġa
 talm-ašt-i	talmašti
 talm-ašt-ī-le	talmaštīli
+talm-d-o-m	tālamdub
 talm-o	talmu
 talm-u	talmu
 talm-ōl-a	talmōla
 talm-ōġ-a	talmōġa
-talmušši-ne	talmuššini
+talmošše-ne	talmuššini
 talmōv-a-b	talmōvab
 talāv+a+že	talāvaže
 talāv+o+že	talavoži, talāvuži
+talāv+o+že-na-až-a	talabōžinaža
 talāv+o+že-na-až-ož	talabōžinažuž
 talāv+o+že-na-āž-e	talavožināži
 talāv+o+že-na-āž-ož	talābōžināžuž
@@ -2144,21 +2325,21 @@ tapš+ō+bāde	tapšōbādi
 tapš-a-b	tapšab
 tapš-ū	tapšū
 tapḫi-a	tapḫa
+tapḫi-ašt-i-b	tapḫaštib
 tar+i+nni	tārinni
 tar+i+nni=ma	tarinnima
 tar+i+ġe-ne	tariġini, tāriġini
 tar+i+ġe-ne-e	tariġini, tāriġini
+tarali-ne-ve	tarallibi
 tarb-o	tarbu
 tarb-u	tarbu
 tarbu	tarbu
 targi	targi
-tari-ne-va	tarria
 tarm+a+ni-na	tarmanna
 tarm+a+ni-ne	tarmanni
 tarm+a+ni-ne-e	tarmanni
 tarm+a+ni-ne-ve-na	tarmannibina
 tarm+a+ni-ož	tarmānuž
-tarmani-na	tarmanna
 tarn-i	tarni
 tarni	tarni
 tarr-i-a	tarria
@@ -2181,8 +2362,8 @@ tatt-i-en	tattin
 tatt-i=n	tattin
 tatti-n	tattin
 tatti=n	tattin
-tatḫ+und+ō+re-na=mma	tatḫundōrinamma
 tatḫi-ne-ve	tatḫinibi
+tatḫi-nā=mma	tātḫināmma
 taudi	taw-ti
 tav-ašt-i-le	tabaštili
 tav-ašt-o-m	tavaštub
@@ -2195,18 +2376,21 @@ taġav+o+re	taġavure
 taġav+o+re-ne	taġavure
 taġav+o+re-ne-e	taġavure
 taġōbi	taġōbi
+taškar+ġe	taškarġi
 taššāmi-b	taššāmib
 taššāmi-ž	taššāmmiž
 taž-ol-ūw-a	tažulūwa
 taž-umme	tažummi
+taže-ae	tāžae
 taže-ne	taženi
 taže-ne-e	taženi
 taže-nē-ra	tāženēra
-tažme.šarri=n	tažmežarrin
+tažmi.šarri	tažmežarri
 tažmi.šarri-da	tažmižarrida
+tažmi.šarri-va	tažmižarriba
 tažmi.šarri-ž	tažmižarriž
-tažmi.šarri=n	tažmižarrin
-tažmiš-fa	tažmišfa
+tažmi.šarri=n	tažmežarrin, tažmižarrin
+tažmiž-fa	tažmišfa
 te+o+n+āe	teunāe
 te-i-a	tīa
 te-i-a-ma	tēama
@@ -2238,7 +2422,7 @@ teġr-i	teġri
 teġri	teġri
 tešš+o+ġe-āi	teššuġāi
 tešš-už-o-m	teššužum
-tešše	tešši
+tešše	tešši, tēšši
 tešše+ni	teššeni
 tešše-i-e	teššīe
 tešše-ie	teššīe
@@ -2246,7 +2430,6 @@ tešše-na	teššena
 tešše-na-āž-a	teššināža
 tešše-ne	teššeni
 tešše-ne-e	teššeni
-tešši	tešši
 teššob	teššub
 teššob-až	teššōbaž
 teššob-pe	tešcuppi, teššuppi
@@ -2264,20 +2447,23 @@ tid+i+vad+o+ḫḫe-a	tedevaduḫḫa, tidivāduḫḫa
 tidi-a	tīda
 tidi-i-a=m	tidiam
 tidi-i-ā=m	tidiāb
-tie-iē-a	tēa
 til+ol-ōšt-aw	tilulōštab
 tilladi-a	tillada
 timeri-ne-e	timarri
 timeri-ne-ē	timerrē
 tip+šari	tipšar, tipšari, tipšāri, tīpšāri
-tiv+o+šḫe-a	tebušḫa
-tiv+o+šḫi-a	tivošḫa
+tiv+o+šḫe-āi	tebušḫāi, tibušḫāi
+tiv+o+šḫi	tibōšḫi
+tiv+o+šḫi-a	tebušḫa, tivošḫa
 tiv+o+šḫi-na	tivušḫini
 tiv+o+šḫi-ne-e	tivušḫini
 tiv-a	tīva
 tiv-āġ-a	tibāġa
+tiv-āġ-id-o	tivāḫtu
 tiv-āġ-ō-m	tibāġōm
-tive-ne-ž	tiveniž
+tive-a	tiba
+tive-āe	tibāe
+tive-āi	tibāi
 tišš+o+ḫḫe	tiššuḫḫi
 tiža-b	tižab, tīžab
 tiža-nna	tīžanna
@@ -2285,6 +2471,10 @@ tiža=nna	tīžanna
 tiḫḫ-ed-a	tiḫḫida
 tiḫḫi-da	tiḫḫida
 tiḫḫi-i-da	tiḫḫida
+tomn+adi-ne=lla	tumnadinella
+tomni-i-a=m	tumniam
+tomni-i-až-a	tumniaža
+tomni-i-až-ōž	tūmniažūž
 ton-i-le=ffa	tōniliffa
 ton-i-vade-ai	tunivadai
 ton-i-āi-n	tūnāin
@@ -2295,15 +2485,19 @@ ton-ošt-u	tunuštu
 ton-āḫḫ-i	tūnāḫḫi
 ton-ō-m	tunōm
 ton-ōšt-o-m	tunōštum
-torb-a	turba
+tor+o+ḫḫe-āe	tōruḫḫāe
 torove	turōvi, tōruwe, tōruwi
 torove-a	turba
 torove-ne-ve	tōrōbinibi
+torv-a	turba
 tuffaē+šḫe=ma	tuffaēšḫema
 tug-a=lla	tugalla
 tugali-na	tugalla
 tugi-a=lla	tugalla
-tugriš-ḫe	tugrišḫi
+tugriž+ō+ġe-a	tugrižōġa
+tugriž-ḫe	tugrišḫi
+tui-i-va	tuiba
+tui-va	tuiba
 tulbuli+m+a+že-a	tulbulimaža
 tulburi-āe	tulburāe
 tuli-ne-ve-na	tullibina
@@ -2311,10 +2505,6 @@ tulli-ve-na	tullibina
 tummi-ne-e=nna	tummininna
 tummi-ne-nna	tummininna
 tummi-ne=nna	tummininna
-tumn+adi-ne=lla	tumnadinella
-tumni-i-a=m	tumniam
-tumni-i-až-a	tumniaža
-tumni-i-až-ōž	tūmniažūž
 tun+i+tḫe-iffe	tunitḫibe
 tunuwari-ne-ž	tunuwarriž
 tupp+a+šše	umbašši
@@ -2328,29 +2518,27 @@ turžē	turžē
 tā-ūmb-a=lla	tāw-umballa
 tād+i+a+šše	tādiašši
 tādi-a	tāda
+tādi-ne-vā=d	tādinibād
+tādi-āe	tadāe
 tāditti+ni-i-a=lla	tādittiniala
 tāditti+ni-i-až=lla	tādittiniala
 tāe	tāġe
 tāg+ō+re	tāgōri
-tāg-o-l-ēž	tāgulēž
 tāgidu-ra	tāgidura
-tāl+āḫḫ-ī-b	tālāḫḫīb
 tāl+ūl+ī+že-a=nna	tālūlīžanna
 tāl-i	tali
 tāl-i-b=ma	talippa
 tāl-i-le	tali
 tāl-i=ffa	talippa
 tāl-ā=l	tālāl
-tāl-ā=lla	tālāl
-tālam-d-o-m	tālamdub
 tāle	tāli
 tāle-i-a	tālia
 tāle-na	tālina
 tāle-na-āž-a	tālināža
+tāle-ne-va	taliniba
 tāle-ne-ž	tālēnež
 tāle-nē-da	tālinēda
 tāle-ā=l	tālāl
-tāli	tāli
 tān+gi-ai=mā	tāngaimā
 tān+o+že	tānuže
 tān+u+m+ā+gi-āi	tānumāgāi
@@ -2361,6 +2549,7 @@ tān-d-o	tāndu
 tān-d-u	tāndu
 tān-i	tāni
 tān-id-o	tāndu
+tān-ož-i	tānuži
 tāni	tāni
 tāni-a	tāna
 tāni-na	tanna
@@ -2378,13 +2567,14 @@ tāri-ai	tarāi
 tāri-na	tārra
 tāri-ne	tārri
 tāri-ne-e	tārri
+tāri-ne-va	tarria
 tāri-ne-ž	tarriž, tārrež, tārriž
 tāri-āi	tarāi
-tātḫ+und+ō+re-na=mma	tātḫundōrinamma
-tātḫi-nā=mma	tātḫināmma
+tātḫ+und+ō+re-na=mma	tatḫundōrinamma, tātḫundōrinamma
 tāġ-a	tāġa
 tāġ-až-ī-b	taġažīb
 tāġ-i	tāġi
+tāġani-na	tāġanna
 tāġe	tāġe, tāġi
 tāġe-a	tāġa
 tāġe-i-va	tāġiba
@@ -2396,7 +2586,6 @@ tāġe-ve-āe	tāġibāe
 tāġe-ve-āi	tāġibāi
 tāġe=d	tāġid
 tāġe=ma	tāġēma
-tāže-ae	tāžae
 tāži-ne	tāžini
 tāži-ne-e	tāžini
 tāžē-ne	tāžēni
@@ -2413,7 +2602,6 @@ tēġ+o+šše-ne	tēġuššeni
 tēġi-da	tēġida
 tēġi-i-až-a	teġiaža
 tēġi-i-da	tēġida
-tēšši	tēšši
 tīd-a	tīda
 tīd-i-a=m	tidiam
 tīd-i-o	tīdiw
@@ -2424,20 +2612,24 @@ tīe-a	tia, tīa
 tīe-b	tīb
 tīe-i-a	tīa
 tīe-i-va	tīva
+tīe-iē-a	tēa
 tīe-v-a	tīva
 tīe-va	tīva
 tīv-o=lla=an	tīvollan
 tīv-oll-a=an	tīvollan
 tīv-oll-a=n	tīvollan
 tīve	tebi, teve, tibi, tivi, tībi
-tīve+ni-ne-va	tīvenniva
 tīve-a	tiba
 tīve-ai	teai
 tīve-b	tibib
-tīve-na	tevena, tibēna, tivena, tivina, tēvena, tīvena, tīvina
+tīve-f-fa	teveffa
+tīve-iffe-a	teveffa
+tīve-na	tevena, tibina, tibēna, tivena, tivina, tēvena, tīvena, tīvina
 tīve-na-āž-ož	tebinažuž, tebināžuž
 tīve-ne	tebini
 tīve-ne-e	tebini
+tīve-ne-va	tīvenniva
+tīve-ne-ž	tiveniž
 tīve-nā=m	tivinām
 tīve-v-uda=m	tivivudab
 tīve-ā	tīvā
@@ -2458,9 +2650,14 @@ tōn+āḫḫ+i	tūnāḫḫi
 tōpš-ed-a	tōpšida
 tōpši-da	tōpšida
 tōpši-i-da	tōpšida
-tōr+o+ḫḫe-āe	tōruḫḫāe
-tōr-i	tōri
-tōri	tōri
+tōġ+ad+om+a+ni-ne	tōġadumanni
+tōġ+ad+om+a+ni-ne-e	tōġadumanni
+tōġ+ad+om+a+nni	tōġadumanni
+tōġ-ad-i-b	tōġadib
+tōġ-ad-ož-i-l-āi	tōġadužilāi
+tōġ-ad-uffu	tōġaduppu
+tōġal+zi-ne-va	tōġalziniba
+tōġal+zi-ne-ž	tōġalziniž
 tūdi+gi-ož	tūdiguž
 tūdi+gi-ōž	tūdigōž
 tūn+imm+o+šš+oḫḫe-a	tūnimmuššuḫḫa
@@ -2477,8 +2674,8 @@ tūn-ō-m	tunōm
 tūnuw-ad-o	tūnuwadu
 tūnuw-ad-u	tūnuwadu
 tūr+o+ḫḫe	turuḫḫe, tūruḫḫi
-tūr-i	tūri
-tūri	tūri, tūria
+tūr-i	tōri, tūri
+tūri	tōri, tūri, tūria
 tūri-n	tūrīn
 tūri-ī-e	tūrīe
 tūri=n	tūrīn
@@ -2514,28 +2711,22 @@ ubī=n	ubīn
 ud-ož-o=d=amma	udužudamma
 ud-ož-ud-a=mma	udužudamma
 ud-ān-a-b	udānab
+udip.šarra-a=an	udipšarran
+udip.šarra-a=n	udipšarran
 udip.šarra-ž=l	udepšarrāl
+udip.šarra=an	udipšarran
 udip.šarra=n	udipšarran
-udip.šarri-a=an	udipšarran
-udip.šarri-a=n	udipšarran
-udipšarra=an	udipšarran
 ue	ue
 uenawa	uenava
 uenawa-ž=l	uenaval
 ug+ol+gar-i	ugulgari
+ug+ol+z-i-b	ugulzib
 ugulg-o=l	ugulgul
 ugulg-u=l	ugulgul
-ugulz-i-b	ugulzib
 ukk-o	ukku
 ukk-u	ukku
 ukku	ukku
 ul+ān-ō-m	ulānōm
-ull+uġ+o+že-ve-āe	ulluġužibāe, ulluġōžibāe
-ull+uġ+o+že-ve-āi	ulluġužibāi
-ull+uġ-ož-ill-i-āi-n	ulluġužellāin
-ull+uġ-ož-ill-i-āi=n	ulluġužellāin
-ull-o-l-ež	ulluliž
-ull-uġ-ēd-i	ulluġēdi
 ulli.kummi=n	ulligummin
 umb+a+šše	umbašši
 umb-a-šše	umbašši
@@ -2557,22 +2748,15 @@ umve	umve
 un+i+ġe-i-ž	uniġiž
 un+i+ġe-ž	uniġiž
 un+o+šḫe-ož	unušḫuž
+un-a	una
 un-a=dil	unadel
 un-a=m	unam
 un-i-b	unib
 un-i-eva=d=ān	univadān
 un-i-eva=tta	univatta
 un-īd-o	unīdu
-undō=l	undūl
+un-ōž-i	unōži
 univi-i-a	univia
-unnu	unnu
-ur+o+nni	urunni
-ur+o+nni-da	urunnida
-ur+o+nni-i-až	urunniaž
-ur+o+nni-i-da	urunnida
-ur+o+nni-ia-ne	urunniaž
-ur+o+nni-n	urunnin
-ur+o+nni=n	urunnin
 ur-a	ura
 ur-i	uri
 ur-i-o	uriu
@@ -2594,6 +2778,7 @@ uri-i-da	urida
 uri-i-va	uriba
 uri-i=l	urel
 uri-va	uriba
+uri-ī-da	urīda
 urūbi	urūbi
 utḫari-na	utḫarra
 uw+all+i+nni	uwallinni
@@ -2612,9 +2797,8 @@ uwali-ne	falli
 uwali-ne-e	falli
 uwalli	falli
 uwalli-nni	uwallinni
-uwe	ue
 uwer+o+ḫḫe-ā=l	ueruḫḫāl
-uwi	ui
+uwi	ue, ui
 uwi-a	uwa
 uwi-a=l	uwal
 uwi-a=m	uwamuwā
@@ -2629,68 +2813,58 @@ uwētti-a	uētta
 uwīri-ne-ve-na-āž-a	uīrrivenāža
 uzi	uzi
 uġi	uġi
-ušt+a+šše-n	uštaššin
-ušt+a+šše=n	uštaššin
-ušt+i+ġe	uštiġi
-ušt-a-b	uštab
-ušt-an-ēd-i	uštanēdi
-ušt-ed-i-a	uštedia
-ušt-i-ae	uštae
-ušt-o	ōštu
-ušt-u	ōštu
-ušt-ur-a-b	ušturab
-ušt-ā-b	uštāb
 uštedi-i-a	uštedia
 ušš+e+šše-ne-da	uššeššinida
+ušš+i+ġe-na	uššiġina
 ušš-o-l-ēž	uššulēž
 ušš-ō-m	uššōm
 ušḫ+ār+i-ī-da	ušḫārīda
 ušḫ-ol-uffu	ušḫuluppu
 ušḫu+ni	ušḫuni, ušḫōni
+ušḫu+ni-ne-vā=l	ušḫunnibāl
 ušḫu+ni-ōž	ōšḫunōž
 ušḫu+ni-ž	ušḫunež
-ušḫuni-ne-vā=l	ušḫunnibāl
+ušḫuni-āe	ušḫunāe
 už+o+ni-a	užōna
 už+o+ni-ne-ve-na	užunnibina
 už+o+nni-ve-na	užunnibina
 už-a	uža
 už-u	užu
 už-ōn-a	užōna
+uže-ne	uženi
+uže-ne-e	uženi
 uži-a	uža
 āb-i	ābi
 ābi	ābi
 ābē-ne	ābēni
 ābē-ne-e	ābēni
-ākki	ākki
+ākki	akki, ākki
 ālla+i	allai, allāi
 ālla+i-i-a=an	āllaian
 ālla+i-i-a=n	āllaian
 ālla+i-uda	āllaiwta
 āllāni	allani, āllāni
+āllāni-ne-da	allannida
 āllāni-ne-e	āllānni
 āllāni-va	āllaniva
 āllāni=ma	āllānima
-ālu-ūšt-i	ālūšti
 ālv-a	ālva
 ālvi-a	ālva
-ālžialli	ālžialli
-ālžīālli	alzialli, ālzialli
+ālz-i-b	ālzib
+ālžīālli	alzialli, ālzialli, ālžialli
+ām-i	āmi
 āmb-a	āmba
 āmbi-a	āmba
+āmi	āmi
 āmm+a+nni-ne-va	āmmanniniva
-āmmātte-na	amattena, amāttīna
 āmmī-n-ī=n	āmmīnīn
 āmmī-nē-n	āmmīnīn
+āni	āni
 ānnu	ānnu
 ānž+ali-ā=l	ānžalāl
 ānž-al-ā=l	ānžalāl
 āpsukki-ož	āpsukkuž
-āpši	āpši
-ār-i	āri
 ārari	ārari
-ārde	ārdi
-ārde-i	ārdi
-ārde-ne-ve-na	ārdenibina
 āri	ari, āri
 āri-ne-da	ārrida
 āri-ī-ve=n	arīvin
@@ -2698,26 +2872,31 @@ uži-a	uža
 āss+ar+ō+ḫḫe-a	āssarōḫḫa
 āġmižari-ne-ž	āġmižarriž
 āġri	āġri
+āġri-a	ara, āġra
 āġri-da=l	āġridal
 āġri-i-da=l	āġridal
+āġri-na	ara
+āġri-ne-ve-na-āž-a	aġarribināža
 āġri-ne-ž	aġarrež
+āġri-nē-va	aġarrēba
+āġri-nē-ve-ož	aġarrēbuž
 āġri-ve-ož	āġribuž
 āġrā-i-lē	āġrāilī
-āšk-i-le	āškili
-āšt+o+ḫḫē-na	āštuḫḫēna
-āšte	āšte
+āšt+a+šḫe-ne	āštašḫini
+āšt+a+šḫe-ne-e	āštašḫini
+āšte	āšte, āšti
 āšte-a	āšta
 āšte-b=ma	āštippa
+āšte-i	āšti
 āšte-i-nna	āštenna
 āšte-na	aštēna
 āšte-ne-va	ašteniva
 āšte-ne-va=an	āštenivan
 āšte-ne-va=n	āštenivan
+āšte-ne-ve	āštenibi
 āšte-nna	āštenna
+āšte-va	āštiba
 āšte-ī-va	āštīva
-āšti	āšti
-āšti-i	āšti
-āšti-va	āštiba
 āšš-an-i-eva	āššaniba
 āšš-id-en	āššiden, āššidin
 āšš-ō-l-āe-ž	āššōlāež
@@ -2739,12 +2918,7 @@ uži-a	uža
 āšḫi-a	āšḫa
 āšḫi-ne-va	āšḫiniba
 āšḫi-ī=ma	āšḫīma
-āšḫo	ašḫu, āšḫu, āšḫō
 āšḫo+e	ašḫuwe, āšḫuwe, āšḫuwi
-āšḫo-n	āšḫun
-āšḫo=n	āšḫun
-āšḫu-n	āšḫun
-āšḫu=n	āšḫun
 āže	āže
 āžri	āžri
 ēar+že	ēarži
@@ -2756,18 +2930,14 @@ uži-a	uža
 ēbla-ġe-ne-va	ēblaġeniva
 ēbla=m	ēblam
 ēbla=n	ēblan
-ēd-o	ēdu
-ēd-u	ēdu
-ēgi-nē-n	ēkkinēn
-ēkki-nē-n	ēkkinēn
+ēd+ni	ēdni
+ēkke-nē-n	ēkkinēn
 ēlgi	ēlgi
 ēlgi-i	ēlgi
 ēlgi-i=lla	ēlgilla
 ēlgi-āe	ēlgāe
 ēlgi=lla	ēlgilla
-ēmman+ze-ne-va	ēmmanzeneva
-ēn+zari-na	ēnzarra
-ēnnigaldi	ēnnigaldi
+ēnnigaldi	enigaldi, ēnnigaldi
 ēnġi-a	ēnġa
 ēpḫe-ne	ēpḫēni
 ēpḫe-ne-dan	ēpḫenidan
@@ -2777,20 +2947,7 @@ uži-a	uža
 ērd-o-kko	ērdukku
 ērn-i	ērni
 ērni	ērni
-ērvi	ērbi
-ērvi-ne-ž	ērbinež
 ērġ-i=ma	ērġima
-ērġi=ma	ērġima
-ēvr+i+šše	ēbrešši
-ēvri	ebri, ibri, ēbri
-ēvri-i-da	ebrida, ēbrida
-ēvri-i-va	ēbriva
-ēvri-i-vē	ēbrivē
-ēvri-i-ž	ēbrež
-ēvri-vē	ēbrivē
-ēvri-ē-da	ēbrēda
-ēvri-ī-da	ēbrīda
-ēvri-ž	ebrež, ēbrež, ēbriž
 ēšḫ-i	ēšḫi
 ēšḫi	ēšḫi
 īa	īa
@@ -2802,31 +2959,20 @@ uži-a	uža
 īll-ol-i-a	īllulia
 īnna=nna=m	īnnannam
 īpšade-ne-n	īpšadenen
-īšt-i-en=nna=ān	īštennān
-īšte=nna=ān	īštennān
+ōl+mi-a	ōlma
 ōl+mi-šši	ōlmišši
-ōlbī-ne-e	ōlbīni
+ōli-ne	ōlli
+ōli-ne-e	ōlli
 ōll+o+ḫḫe-a	ōlluḫḫa
-ōll+uġ-i-ae=nna=ān	ōlluġaennān
-ōll+uġ-i-aī=nna	ōlluġaīnna
-ōll+uġ-o-m	ōlluġum
-ōll+uġ-ož-ill-and-i-n	ōlluġužellandin
-ōll+uġ-ož-ill-and-i=n	ōlluġužellandin
 ōlli-ne	ōllini
 ōlli-ne-e	ōllini
 ōlm-a	ōlma
-ōlmi-a	ōlma
-ōmmini-na	ōmminna
-ōndo=ma	ōnduma
-ōnnu	ōnnu
-ōr-d-a=ffa=nan	ōrdappanan
-ōr-d-i-eva	ōrdeba
-ōr-d-ō-bōr	ōrdōbōr
-ōr-d-ō-ež	ōrdōž
-ōrd-a=ffa=nan	ōrdappanan
-ōrd-i-eva	ōrdeba
-ōrd-ō-bōr	ōrdōbōr
-ōrd-ō-ež	ōrdōž
+ōr+d-a-b	ōrdab
+ōr+d-a=ffa=nan	ōrdappanan
+ōr+d-a=m	ōrdab
+ōr+d-i-eva	ōrdeba
+ōr+d-ō-bōr	ōrdōbōr
+ōr+d-ō-ež	ōrdōž
 ōrgi-ne	ōrgini
 ōrgi-ne-n	ōrginin
 ōġ+ni	ōġni
@@ -2839,6 +2985,7 @@ uži-a	uža
 ōšš-o-kko=m	ōššukkam
 ōšš-un-i=lla	ōššunila
 ōšš-un-il-a	ōššunila
+ōšš-ī=d	ūššīd
 ōšš-ō+m+ai	ōššōmai
 ōšš-ō-m	uššōm
 ōšš-ōšt-i	ōššōšti
@@ -2878,8 +3025,6 @@ uži-a	uža
 šapḫaldi-b	šapḫaldib
 šar+žar-a-b=man	šaržarappan
 šar+žar-a=ffa=an	šaržarappan
-šari-ne	šarri
-šari-ne-e	šarri
 šarn+i+tḫe	šarnitḫe
 šarr+a+šše	šarrašši
 šarr+a+šše-ne-e=n	šarraššinin
@@ -2892,10 +3037,12 @@ uži-a	uža
 šarri-i-až	šarriaž
 šarri-na	šarrina, šarrēna
 šarri-na-āž-e	šarrināže
+šarri-ne-da	šarrinida
 šarri-ne-va	šarriniba
 šarri-ne-ve	šarrinibi
 šarri-ne-ž	šarrinež
 šarrumma=n	šarrumman
+šarrē-na	šarrēna
 šarāmmē-ne	šarāmmēni
 šarāmmē-ne-e	šarāmmēni
 šarārmi-a	šarārma
@@ -2905,22 +3052,29 @@ uži-a	uža
 šarže-a	šarža
 šaržārai=ma	šaržāraima
 šaržāraima	šaržāraima
-šatt-o-m	šattub
+šatt-i	šatti
 šattaġamōri-a	šattaġamōra
 šatti	šatti, šātti
 šatti=dil	šattidel
 šauri-a=lla	šāwralla
 šav+ō+že-ne-va	šavožiniva
 šavad+ni=mma	šavadnimma
+šavli-a	šabla
+šavli-na	šavālla
+šavli-na-āž-e	šavallāži
+šavli-ne	šāvālli
+šavli-ne-e	šaballi, šāvālli
+šavli-ož	šabluž
+šavli-āe	šablāe
 šavoška	šauška
 šavoška-da	šauškada, šauškāda
 šavoška-va	šavuškava
-šavāli-na	šavālla
 šaġad+n+adi	šaġadnadi
+šaġurunuwa-va	šaġurunuwaba
 šašfe	šašfe
 šaž-an-ō-eva	šažanōva
-šažari-ne-e	šažarri
-šdori-ne-va	šidurriva
+šažari-ne	šāžarri
+šažari-ne-e	šažarri, šāžarri
 šeb+ār+i-a	šebāra
 šeb-ār-a	šebāra
 šel+o+že-ē-da	šelužēda
@@ -2942,17 +3096,19 @@ uži-a	uža
 šelli-n	šēllin
 šen+z+ūwi-a=tta	šenzūwatta
 šena	šena
+šena-i	šēni
 šena-iffe	šeniffi, šēniffe
 šena-na	šēnna
 šend-ur-o-m	šendurum
-šendamennī=n	šendamennīn
-šende-na	šendena
+šendamenni=n	šendamennīn
+šeni	šēni
 šeni-na	šēnna
 šer+ġe-ož	šerġuž
 šer+že	šerže
 šer+že-ne	šēržēni
 šer+že-ne-e	šerženi, šērženi, šēržēni
 šer-ed-aw	šeridab
+šeri-a	šēra
 šermin+ġe-a	šerminġa
 šervi-na-až-a	šervinaža
 šerġi-ož	šerġuž
@@ -2976,44 +3132,41 @@ uži-a	uža
 šeġal-ož-ill-and-i=n	šeġalužellandin
 šeġal-ud-i-ež	šēġaludiž
 šeġal-umme-a=lla	šēġalumalla
-šeġal-umme-ā=lla	šeġalummālla
 šeġal-ā	šeġalā
 šeġal-ō-l-ež	šeġalōlež
 šeġel+zi-a	šeġelza
-šeġeli-na	šeġella
-šeġeli-ne-ne=dil	šeġellinidel
-šeġeli-ne-ve-na	šeġellibina, šeġellivina
-šeġeli-ne-ve-na-āž-ož	šeġellibinažuž
-šeġelli-a	šeġella
-šeġelli-na	šeġellina
-šeġelli-ne-e=dil	šeġellinidel
-šeġelli-ne=dil	šeġellinidel
-šeġelli-ve-na	šeġellibina, šeġellivina
-šeġelli-ve-na-až-ož	šeġellibinažuž
+šeġeli-ne-ve-āi	šeġellibāi
+šeġelli-ve-āi	šeġellibāi
 šeġiri-a	šeġira
 šeġl-a	šeġla
-šeġli-a	šeġla
-šeġor+ni	šeġurni
+šeġli-a	šeġella, šeġla
+šeġli-na	šeġella, šeġellina
+šeġli-ne-e=dil	šeġellinidel
+šeġli-ne-ne=dil	šeġellinidel
+šeġli-ne-ve-na	šeġellibina, šeġellivina
+šeġli-ne-ve-na-āž-ož	šeġellibinažuž
+šeġli-ne=dil	šeġellinidel
+šeġli-ve-na	šeġellibina, šeġellivina
+šeġli-ve-na-až-ož	šeġellibinažuž
+šeġor+n+i+nni	šeġurninni
+šeġor+ni	šeġurni, šeġōrni
+šeġor+ni-da	šeġōrnida
+šeġor+ni-i-da	šeġōrnida
 šeġor+ni-i-va	šeġurniba
+šeġor+ni-ne-ve-ne-e	šeġurunnivini
+šeġor+ni-nni	šeġurninni
 šeġor+ni-va	šeġurniba
+šeġor+ni-ve-ne-e	šeġurnibini
+šeġor+ni-ve-āe	šeġurnibāe
+šeġor+ni-āe	šeġurnāe, šēġurnāe
 šeġr+oli-i-da	šeġrulida
 šeġr-i	šeġri
 šeġr-o-ež	šeġruž
 šeġr-ol-ed-a	šeġrulida
 šeġri	šeġri
 šeġri-ož	šeġruž
-šeġur+n+i+nni	šeġurninni
-šeġur+ni	šeġurni
-šeġur+ni-da	šeġōrnida
-šeġur+ni-i-da	šeġōrnida
-šeġur+ni-nni	šeġurninni
-šeġur+ni-ve-ne-e	šeġurnibini
-šeġur+ni-ve-āe	šeġurnibāe
-šeġur+ni-āe	šeġurnāe, šēġurnāe
-šeġuru+ni-ne-ve-ne-e	šeġurunnivini
-šeġōr+ni	šeġōrni
 šešfe	šešfe
-šešte-na	šeštena
+šešti-na	šeštena
 šešti-ne	šešteni
 šešti-ne-e	šešteni
 šeštuġ+al+zi-ne	šeštuġalzini
@@ -3024,7 +3177,6 @@ uži-a	uža
 ši-a	šia
 ši-i-a	šia
 ši-ur-i-va-en	šiurivain
-ši-ī-a	šīa
 ši-ūmb-a=lla	šiwumballa
 šial-i-re-iffu-we	šialiribuwi
 šial-ož-o-m	šialužum
@@ -3038,28 +3190,13 @@ uži-a	uža
 šid+ar+ni-a	šidarna, šidārna
 šid+ar+ni-ai	šidarnai
 šid+ō+ri	šidōri, šīdōri
+šid+ō+ri-ne-va	šidurriva
 šid-ar-ill-ō-m	šidarillōm
 šid-i-l-āi	šidilāi
 šid-ār-a	šidāra
 šidarbu	šidarbu
 šidarbu-ž=l	šidarbul
-šie	šia, šīe
-šie-a	šia, šīa
-šie-ai	šiai
-šie-i-a	šia
-šie-na	šēna, šīena
-šie-na-až-a	šīenaža
-šie-na-až-ož	šīenažuž
-šie-na-āž-a	šīenāža
-šie-na-āž-e	šīenāže
-šie-na-āž-ož	šeēnāžuž, šīenažuž, šīenāžuž
-šie-ne	šīeni
-šie-ne-e	šīeni
-šie-ne-e=ma	šēnima
-šie-ne-ž	šīenež, šīeniž
-šie-ne=ma	šēnima
-šie-ā=ma	šiāma
-šie-ž	šiēž
+šie-a=d	šīad
 šig+adi-i-va=m	šigadibam
 šig+adi-va=m	šigadibam
 šigl+ade=mma	šiglademma
@@ -3080,19 +3217,21 @@ uži-a	uža
 šimige-ne=l	šimiginel
 šin+am+ġe-a	ḫa
 šin+z+o+ḫḫe-a=mma	šinzuḫḫamma
-šin+že=ma	šema
-šind-a	šenda
+šin+ze-a=mma	šinzamma
+šind-a	šīnda
 šind-i-ež	šindiž
 šindi+ššē-ne	šendiššēni
 šindi+ššē-ne-e	šendiššēni
 šindi+ž+ūwi-a=d	šindižūwad
 šindi-a	šenda, šīnda
 šindi-i-ž	šindiž
+šindi-na	šendena
 šindi-ž	šindiž
 šine	ni
 šini=m	šinim, šīnim
 šini=ma	šinima
 šini=mma	šīnimma
+šini=mma=m	šīnimmab
 šinnaġi+ni-iffe-až	šinnaġinippaž
 šinubi-ne	šinubini
 šinubi-ne-e	šinubini
@@ -3100,11 +3239,12 @@ uži-a	uža
 šinut-ḫe-na	šinutḫina
 šinutḫi-na	šinutḫina
 šir+ad-i-le	širadili, šīrādili
-šiē-ne	šēni
-šiē-ne-e	šēni
 šokk+a+ni-ne-e	šukkanni
 šokki	šukki
+šokko	šukku, šōkku
+šokko-a	šukka
 šokko=nna	šukkunna
+šolli-ā=d	šullād
 šowa	šūwa
 šowa-a	šōva, šū, šūwa
 šowa-ae	šōvae
@@ -3112,6 +3252,7 @@ uži-a	uža
 šowa-āe	šōvāe
 šu-i-nd-a-šše	šuw-indašši
 šu-i-ēž	šuēž
+šubi-ne-va	šūbīniva
 šubri+ana-ž	šubrianaž
 šubri-ve-ne-va	šubribiniba
 šubri-ve-ne-ve	šubribinibi
@@ -3125,8 +3266,8 @@ uži-a	uža
 šukk+utt-a=tta=m	šukkuttattam
 šukk+utti-a=tta	šukkuttatta
 šukk+utti-a=tta=m	šukkuttattam
+šukk-a	šukka
 šukk-u-a	šukkua
-šukko	šukku
 šullūbri	šullūbri
 šum-i	šumi
 šumali-na=m	šumallam
@@ -3145,21 +3286,25 @@ uži-a	uža
 šummi-ī-da	šummīda
 šummi=nna=m	šumminnam
 šumni+ški	šumniški
-šumuni-ne-ve	šumunnibi
-šumuni-ne-ž	šumunnež
+šumni-ne-ve	šumunnibi
+šumni-ne-ž	šumunnež
 šumuri-ne	šuri
 šumuri-ne-e	šuri
+šundi+ni-na	šundinna
 šupp+a+šše-a=m	šuppaššab
 šupp+a+šše-a=v	šuppaššab
 šur+a+tḫe-ne-ž	šuratḫiniž
 šurakk+a+nni-a	šurakkanna
+šurb-a	šurba
+šurbi-a	šurba
 šurbigi-na	šurbigina
 šurbēgi	šurbēgi
 šurr-ā=d	šurrād
 šurr-ū	šurrū
 šuw+a+ni-na-āž-a	šuwannāža
+šuwala-da	šōvalada
+šuwali-a=tta	šōvalada
 šuwanilam	šuwanilam
-šuē-ž	šuēž
 šuġori-ne	šuri
 šuġori-ne-e	šuri
 šuġraž+ni-a	šuġražna
@@ -3183,43 +3328,35 @@ uži-a	uža
 šār-a	šāra
 šār-i	šāri
 šār-i-b	šārib
-šāre-ne-ve	šārinevi
 šāri	šāri
 šāri-a	šara, šāra
 šāri-b	šārib
+šāri-ne	šarri
+šāri-ne-e	šarri
+šāri-ne-ve	šārinevi
 šātt-ed-a	šatteda
 šātt-ed-aw	šattedaw
 šātt-i	šatti, šātti
 šātt-o-m	šattub, šattum, šāttub
 šātt-īd-o	šāttīdu
 šātt-ō-m	šāttūb
+šāv+al-a=m	šāvalam
 šāv+ō+ʾe	šāvōe
 šāv-al-a=m	šāvalam
-šāval-a=m	šāvalam
-šāvli-a	šabla
-šāvli-ož	šabluž
-šāvāli-a	šabla
-šāvāli-na-āž-e	šavallāži
-šāvāli-ne	šāvālli
-šāvāli-ne-e	šaballi, šāvālli
-šāvāli-āe	šablāe
 šāvō+e	šāvōe
 šāġ+ar+i	šāġari
 šāġl-i-ēž	šāġlēž
 šāġli-iē-ž	šāġlēž
 šāġlē-ž	šāġlēž
-šāžari-ne	šāžarri
-šāžari-ne-e	šāžarri
 šē-al-id-en	šēalidin
 šēal-id-en	šēalidin
 šēd+oʾ+ilia-ne-ž	šēduilianiž
 šēn+ni-a	šēnna
 šēn-i	šēni
-šēna-i	šēni
 šēnde+šše-ne	šēndeššini
 šēnde+šše-ne-e	šēndeššini
-šēni	šēni
 šēnni-a	šēnna
+šēr-a	šēra
 šēr-i	šēri
 šēr-i-a	šēria
 šēri	šēri
@@ -3235,12 +3372,12 @@ uži-a	uža
 šēġa	šēġa
 šēġa-a	šēġa
 šēġa-n	šēġan
+šēġa-ve-na-až-a=an	šīġāvenažan
+šēġa-ve-na-až-a=n	šīġāvenažan
 šēġa-ā=ttā=ma	šīġāttāma
 šēġa-āi	šīġāi
 šēġal+o+bade-a	šēġalubada
 šēġala-na	šēġalana
-šēġā-ve-na-až-a=an	šīġāvenažan
-šēġā-ve-na-až-a=n	šīġāvenažan
 šēš+še	šēšše
 šēž-a	šēža
 šēži-a	šēža
@@ -3248,7 +3385,7 @@ uži-a	uža
 šēžē-a	šēža
 šī+ni-a	šīna
 šī+ni-āi	šīnāi
-šī-a	šīa
+šī-a	šia, šīa
 šī-a-šše	šiašši
 šī-b	šib, šīb
 šī-ed-i	šīedi
@@ -3268,22 +3405,36 @@ uži-a	uža
 šī-ūmme-ne	šīw-ummini
 šī-ūmme-ne-e	šīw-ummini
 šī=m	šīm
-šīa	šīa
 šīadi	šīadi
 šīaiašše	šīaiašši
-šīe-a	šīa
-šīe-ai	šīai
+šīe	šia, šīa, šīe
+šīe-a	šia, šīa
+šīe-ai	šiai, šīai
+šīe-i-a	šia
+šīe-na	šēna, šīena
+šīe-na-až-a	šīenaža
+šīe-na-až-ož	šīenažuž
+šīe-na-āž-a	šīenāža
+šīe-na-āž-e	šīenāže
+šīe-na-āž-ož	šeēnāžuž, šīenažuž, šīenāžuž
+šīe-ne	šēni, šīeni
 šīe-ne-aē=l	šīenaēl
 šīe-ne-da	šianeda
-šīe-ne-e	šīeni
+šīe-ne-e	šēni, šīeni
 šīe-ne-e=lla	šīenella
+šīe-ne-e=ma	šēnima
+šīe-ne-āi	šīenāi
+šīe-ne-ž	šīenež, šīeniž
 šīe-ne-ž=lla	šīenella
 šīe-ne=lla	šīenella
+šīe-ne=ma	šēnima
+šīe-ā=ma	šiāma
+šīe-āe	šīāe
+šīe-ž	šiēž
 šīlvi-a	šīelva
-šīn+zi	šīnzi
-šīnd-a	šīnda
+šīn+že	šīnzi
+šīn+že=ma	šema, šīnzima
 šīnunaġi	šīnunaġi
-šīnzi=ma	šīnzima
 šīr+ni-a	šīrna
 šīr+ni-a=mma	šīrnamma
 šīr+ni-b	širnib
@@ -3291,7 +3442,6 @@ uži-a	uža
 šīr-i	šīri
 šīri	šīri
 šīrn-a	šīrna
-šīrni-a	šīrna
 šīrūri-a	šīrūra
 šīuġi-a	šīwḫa
 šīġ+ātti-ā=ma	šīġāttāma
@@ -3305,14 +3455,16 @@ uži-a	uža
 šīūli-ne-ē=m	šiwullēm
 šīūli-nē=m	šiwullēm
 šō+ni	šōni
-šō+ni-b	šūnib
+šō+ni-b	šōnib, šūnib
 šō+ni-b-a	šōniba
 šō+ni-i-a	šōnia
 šō+ni-i-až	šōniaž
 šō+ni-i-va	šōniba
 šō+ni-va	šōniba
+šō+ni-ī-da	šūnīda
 šō-da	šōda
 šō-i	šōi
+šō-i-ēž	šuēž
 šō-i=ma	šōima
 šō-ve-ae	šōvae
 šō-āž-uda	šāžuda
@@ -3321,15 +3473,15 @@ uži-a	uža
 šōe-ne	šōeni
 šōe-ne-e	šōeni
 šōe-ne-ve-ne-nna	šōeniveninna
+šōe-ž	šuēž
 šōe=ma	šōima
 šōi	šōi
 šōi=ma	šōima
-šōkko	šukku, šōkku
 šōl-id-o	šōlidu
+šōlli	šōlli
 šōmuri-na-až-a=l	šōražal
 šōn-i	šōni
 šōn-i-a	šōnia
-šōni-ī-da	šūnīda
 šōr+a+šše=lla	šōraššella
 šōr-a	šōra
 šōr-a-šše=lla	šōraššella
@@ -3340,18 +3492,16 @@ uži-a	uža
 šōri-ož	šōruž
 šōri=n	šōrin
 šōrr-a	šōrra
-šōuwa-ae	šōvae
 šōġ+a+šše-ne	šōġaššini
 šōġ+a+šše-ne-e	šōġaššini
 šōġ+ar+i-na-až-a=l	šōražal
 šōġoni-na-až-e	šōġunnaži
+šōġoni-ne-ž	šuġunnež
+šōġori	šōġuri
 šōġori-na-až-a=l	šōražal
-šōġuni-ne-ž	šuġunnež
-šōġuri	šōġuri
+šōġori-ne	šōġurri
+šōġori-ne-e	šōġurri
 šōġuri-na-až-a=l	šōražal
-šōġuri-ne	šōġurri
-šōġuri-ne-e	šōġurri
-šūbī-ne-va	šūbīniva
 šūgatte-ne	šūgatteni
 šūgatte-ne-e	šūgatteni
 šūgi	šūgi
@@ -3366,13 +3516,11 @@ uži-a	uža
 šūr-ōž-i	šūrūži
 šūrani-ne	šūranni
 šūrani-ne-e	šūranni
-šūre	šūre
-šūri	šūri
-šūri-re	šūre
-šūri-re-e	šūre
+šūre	šūre, šūri
+šūre-ne	šūre
+šūre-ne-e	šūre
 šūrni-ī=ma	šūrnīma
 šūrnī=ma	šūrnīma
-šūrre	šūre
 šūrūže	šūrūži
 šūw-ar-u-d-a=n=am	šūwarudanam
 šūwarudi-a=n=am	šūwarudanam
@@ -3383,6 +3531,7 @@ uži-a	uža
 šūḫḫ-ul-ušt-i-b	šūḫḫuluštib
 šūḫḫ-ul-ušt-i=m	šūḫḫuluštib
 ūl+me	ulme, ūlmi
+ūl+me-a	ōlma
 ūl+me-b	ūlmib
 ūl+me-na-āž-ož	ulmināžuž
 ūl+me-ne-ve	ūlminibi
@@ -3400,13 +3549,26 @@ uži-a	uža
 ūrġi-ā=v	uurġāb
 ūšte-ne	ūšteni
 ūšte-ne-e	ūšteni
-ūšš-ī=d	ūššīd
 ḫa+i+ġe	ḫaiġi
+ḫa-e	ḫāe
+ḫa-i	ḫāi
+ḫa-i-b	ḫāib
+ḫa-i-b-ā=d	ḫāibād
+ḫa-i=m	ḫāib
+ḫa-id-e	ḫāide
+ḫa-id-en	ḫāiden
 ḫa-id-o	ḫaidu
+ḫa-iž-i	ḫāiži
+ḫa-o-m	ḫāum
+ḫa-ol-i+m+āī-n	ḫāulimāīn
 ḫa-ol-ill-ānd-o	ḫaulillāndu
+ḫa-ož-a	ḫāuža
+ḫa-ož-i	ḫāuži
 ḫa-ā	ḫāž
 ḫa-ā-šše	ḫāšši
 ḫa-ā=l	ḫāl
+ḫa-ī-b	ḫaīb
+ḫa-ōffu=l	ḫāōppul
 ḫab+aḫḫ+ō+bade-a	ḫabaḫḫōbada
 ḫabalgi	ḫabalgi
 ḫabān-a-b	ḫabānab
@@ -3418,29 +3580,26 @@ uži-a	uža
 ḫalba=n	ḫalban
 ḫalikkuli	ḫalikkuli
 ḫalz+ō+ġ+li-a	ḫalzōġla
-ḫalz=ai-	ḫalzai
 ḫalze	ḫalze, ḫalzi
 ḫalze-ne-e	ḫalzēni
 ḫalze-ne-ve	ḫalzinibi
 ḫam+ar+i-na-až-a	ḫamarraža
 ḫam+ar+i-na-až-e-na	ḫamarražena
-ḫamari-na	ḫamarra
-ḫamari-na-až-a	ḫamarraža
-ḫamari-na-až-e-na	ḫamarražena
 ḫamaz+i+a+šše-dan	ḫamaziažidan
 ḫamaz+i+a+šše-i-dan	ḫamaziažidan
+ḫamri-na	ḫamarra
+ḫamri-na-až-a	ḫamarraža
+ḫamri-na-až-e-na	ḫamarražena
 ḫan+i+re	ḫaniri
-ḫan+u+b+a+sḫe	ḫanubasḫi
+ḫan+i+re-na	ḫanirra
+ḫan+u+mb+a+sḫe	ḫanumbasḫi
 ḫan+u+mb+a+sḫe-da	ḫanumbasḫida
 ḫan+u+mb+a+sḫe-i-da	ḫanumbasḫida
-ḫan+u+mb+a+sḫi	ḫanumbasḫi
-ḫan+u+mb+a+sḫi-da	ḫanumbasḫida
-ḫan+u+mb+a+sḫi-i-da	ḫanumbasḫida
-ḫaniri-na	ḫanirra
 ḫanni-ve-āe	ḫannibāe
-ḫapsōri	ḫapsuri, ḫapsōri
-ḫapsōri-da	ḫapsōrida
-ḫapsōri-i-da	ḫapsōrida
+ḫapsori	ḫapsuri, ḫapsōri
+ḫapsori-da	ḫapsōrida
+ḫapsori-i-da	ḫapsōrida
+ḫapsōri-b	ḫapsōrib
 ḫapš-i	ḫāpšī
 ḫapš-ār-ūw-a	ḫapšārūwa
 ḫar-va	fa
@@ -3457,33 +3616,30 @@ uži-a	uža
 ḫassī-n	ḫassin
 ḫassī=n	ḫassin
 ḫatt+o+ġe	ḫattuġe
-ḫatt+ō+ġe-na-āž-a	ḫattōġināža
+ḫatt+o+ġe-na-āž-a	ḫattōġināža
 ḫatḫ-ēd-a	ḫatḫēda
 ḫauz+o+ġe-a	ḫaw-suġa
 ḫauz-uġ-a	ḫaw-suġa
 ḫav+ār+i-ne	ḫavārri
 ḫav+āḫḫ+ō+bade-a	ḫavāḫḫōbada
-ḫavoro+ni	ḫaburni, ḫabōrni, ḫavorni, ḫavōrni
-ḫavoro+ni-a	ḫaburna
-ḫavoro+ni-n	ḫaburnin
-ḫavoro+ni-ne	ḫavorōnni, ḫavōrunne, ḫavōrunni
-ḫavoro+ni-ne-e	ḫavorōnni, ḫavōrunne, ḫavōrunni
-ḫavoro+ni-ne-e=ma	ḫavorunnima
-ḫavoro+ni-ne-n	ḫavorunnen
-ḫavoro+ni-ne-ne	ḫavōrunnini
-ḫavoro+ni-ne-ra	ḫāvourunnīra
-ḫavoro+ni-ne-va	ḫāvorunneva
-ḫavoro+ni-ne-ve-na	ḫavōrunnibina
-ḫavoro+ni-ne-š=nna	ḫavōrunnišša
-ḫavoro+ni-ne=ma	ḫavorunnima
-ḫavoro+ni-ož	ḫavōrnuž
-ḫavoro+nni-ne	ḫavorunni, ḫavōrunni
-ḫavoro+nni-ne-e	ḫavorunni, ḫavōrunni
-ḫavoro+nni-ne-ve	ḫavōrunnibi
-ḫavoro+nni-ne-ve-a	ḫavorunniva
+ḫavor+ni	ḫaburni, ḫabōrni, ḫavorni, ḫavōrni
+ḫavor+ni-a	ḫaburna
+ḫavor+ni-n	ḫaburnin
+ḫavor+ni-ne	ḫavorunni, ḫavorōnni, ḫavōrunne, ḫavōrunni
+ḫavor+ni-ne-e	ḫavorunni, ḫavorōnni, ḫavōrunne, ḫavōrunni
+ḫavor+ni-ne-e=ma	ḫavorunnima
+ḫavor+ni-ne-n	ḫavorunnen
+ḫavor+ni-ne-ne	ḫavōrunnini
+ḫavor+ni-ne-ra	ḫāvourunnīra
+ḫavor+ni-ne-va	ḫavōrunniba, ḫāvorunneva
+ḫavor+ni-ne-ve	ḫavōrunnibi, ḫāvorunnive
+ḫavor+ni-ne-ve-a	ḫavorunniva
+ḫavor+ni-ne-ve-na	ḫavōrunnibina
+ḫavor+ni-ne-š=nna	ḫavōrunnišša
+ḫavor+ni-ne=ma	ḫavorunnima
+ḫavor+ni-ož	ḫavōrnuž
 ḫavāri-ne-e	ḫavārri
 ḫavēr+ni	ḫavirni, ḫavērni
-ḫavōro+ni-ne-va	ḫavōrunniba
 ḫavūži	ḫavūži
 ḫaziani-a	ḫaziana
 ḫašt+al+i-ne	ḫaštalli
@@ -3492,6 +3648,7 @@ uži-a	uža
 ḫaštalli	ḫaštalli
 ḫaššiadi	ḫaššiadi
 ḫaššiadi-na-āž-a	ḫaššiadināža
+ḫaž-ar-i=nna	ḫāžarinna
 ḫaž-ašt-i-le	ḫažaštili
 ḫaž-až-i-b	ḫāžažib
 ḫaž-až-i-l-ēž	ḫāžažilēž
@@ -3502,30 +3659,41 @@ uži-a	uža
 ḫaž-ī+m+ai	ḫāžīmai
 ḫaž-īd-ō=l	ḫāžīdūl
 ḫaž-ōž-a	ḫāžōža
+ḫažari	ḫažari
+ḫažari-a	ḫažara
+ḫažari-ne-ž	ḫažarrež
+ḫažarri-āe	ḫažarrāe
+ḫažarri-āi	ḫažarrāi
+ḫažarri-ž	ḫažarrež
+ḫaži-āe	ḫažāe
 ḫažimari-ne	ḫažimarri
-ḫebat	ḫebad
-ḫebat-fe	ḫebapti, ḫebatte
-ḫebat-ož	ḫebaduž
-ḫebat-ve	ḫebatti
-ḫebat-ve-na-až-ož	ḫebattenažuž
-ḫebat-ve-na-āž-ōž	ḫebattenāžōž
-ḫebat-ve-ne-da	ḫibaptenida
-ḫebat-ve-ne-va=l	ḫebatpabnibal
+ḫebad	ḫebad
+ḫebad-fe	ḫebapti, ḫebatte
+ḫebad-ož	ḫebaduž
+ḫebad-ve	ḫebatti
+ḫebad-ve-na-až-ož	ḫebattenažuž
+ḫebad-ve-na-āž-ōž	ḫebattenāžōž
+ḫebad-ve-ne-da	ḫibaptenida
+ḫebad-ve-ne-va=l	ḫebatpabnibal
+ḫebat-fa	ḫebapta
 ḫelde-ne	ḫeldeni
 ḫelde-ne-e	ḫeldeni
 ḫeli-ā=ma	ḫelāma
+ḫell+aḫḫ+ō+re	ḫellaḫḫōri
 ḫelōvi-a	ḫelōva, ḫēlōva
+ḫenna=[	ḫēnna
+ḫenna=m	ḫennām
 ḫenni	ḫenni, ḫinni
 ḫenni=m	ḫinnim
 ḫenni=ma	ḫennēma, ḫinnima, ḫinnēma
-ḫenni=mma	ḫinimma
-ḫennā=m	ḫennām
+ḫenni=mma	ḫinimma, ḫinnimma
+ḫenz+ād-u	ḫenzādu
 ḫenz-ā	ḫenzā
-ḫenz-ād-u	ḫenzādu
 ḫenzi-i-da	ḫinzida
 ḫenzi-ā	ḫenzā
 ḫer+ār+i	ḫerāri, ḫērāri
 ḫeraġi	ḫerāġi
+ḫeraġi-i-da	ḫēraġida
 ḫeri	ḫēri
 ḫeri-da	ḫerida
 ḫeri-i-da	ḫerida
@@ -3533,6 +3701,7 @@ uži-a	uža
 ḫežāli-a	ḫežāla
 ḫi+ar+i-a	ḫiara
 ḫi+ar+o+ḫḫe	ḫearuḫḫi, ḫiaruḫḫi
+ḫi+ar+o+ḫḫe-a	ḫiaruḫḫa
 ḫi+ar+o+ḫḫe-na	ḫiaruḫḫina
 ḫi+ar+o+ḫḫe-na-āž-a	ḫiaruḫḫināža
 ḫib-o-l-ēž	ḫibulēž
@@ -3562,8 +3731,7 @@ uži-a	uža
 ḫimz+atḫ+ō+že	ḫimzatḫōži
 ḫimz-id-o	ḫimzidu
 ḫinz-ur-o-l-āe-ž	ḫinzurulāež
-ḫinzuri-nna	ḫinzurinna
-ḫinzōri-nna	ḫinzōrinna
+ḫinzori-nna	ḫinzurinna, ḫinzōrinna
 ḫir+īdi	ḫirīdi
 ḫir-aġ-i=lla	ḫiraġella
 ḫiraġe-i=lla	ḫiraġella
@@ -3592,13 +3760,18 @@ uži-a	uža
 ḫue+ni-i-va=n	ḫuenivan
 ḫue+ni-va=an	ḫuenivan
 ḫue+ni-va=n	ḫuenivan
+ḫue-ne-va=an	ḫuenivan
+ḫue-ne-va=n	ḫuenivan
 ḫul-d-i-b	ḫuldib
 ḫuld-i-b	ḫuldib
 ḫull+o+re-va	ḫullurēva
 ḫull+o+re-ē-va	ḫullurēva
 ḫull-ur-i-ēva	ḫullurēva
+ḫupp+ad-ed-o	ḫuppadedu
+ḫupp+ad-ed-u	ḫuppadedu
 ḫupš-i	ḫupši
 ḫupši	ḫupši
+ḫur+o+šše-ve-na-āž-a	ḫuruššibināža
 ḫurb-a	pa
 ḫurbi-a	pa
 ḫurn-i	ni
@@ -3613,23 +3786,16 @@ uži-a	uža
 ḫuwava-ne-va=v	ḫuwavanivab
 ḫušte-na-āž-a	ḫuštenāža
 ḫā+i+že	ḫāiži
-ḫā-e	ḫāe
-ḫā-i	ḫāi
-ḫā-i-b	ḫāib
 ḫā-i-b-ā=d	ḫāibād
-ḫā-i=m	ḫāib
-ḫā-id-e	ḫāide
-ḫā-id-en	ḫāiden
-ḫā-iž-i	ḫāiži
-ḫā-ol-i+m+āī-n	ḫāulimāīn
-ḫā-ož-a	ḫāuža
-ḫā-ōffu=l	ḫāōppul
+ḫā-i-evā=d	ḫāibād
+ḫā-ož-i	ḫāuži
+ḫā-ī-b	ḫāīb
 ḫāb+o+že-b	ḫābužib, ḫābōžib
 ḫāigali-ne	ḫāigalli
 ḫāigali-ne-e	ḫāigalli
 ḫāl-i-l-āi	ḫāllāi
 ḫālōli	ḫālōli
-ḫān+u+b+a+sḫe	ḫānubasḫi
+ḫān+u+b+a+sḫe	ḫanubasḫi, ḫānubasḫi
 ḫān-i	ḫāni
 ḫāni	ḫāni
 ḫāni-i-e	ḫānie
@@ -3660,7 +3826,6 @@ uži-a	uža
 ḫārē-ne-e	ḫārēni
 ḫāv+ō+že	ḫavūži
 ḫāv+ō+že-na	ḫāvoužina
-ḫāvoro+ni-ne-ve	ḫāvorunnive
 ḫāġi-p-pe-na=ma	ḫāġippinama
 ḫāšši	ḫāšši
 ḫāž+a+že-b	ḫāžažib
@@ -3685,18 +3850,17 @@ uži-a	uža
 ḫāž-u	ḫāžu
 ḫāž-ār-i	ḫāžāri
 ḫāž-ōž-a	ḫāžōža
+ḫāžeri-a	ḫāžēra
 ḫāžeri-āe	ḫāžerāe
 ḫāži+mmi-ie	ḫāžimmie
 ḫāži+mmē	ḫāžimmie
-ḫāžēri-a	ḫāžēra
 ḫāḫḫi-ne-ž	ḫāḫḫiniž
 ḫē-ar-ašt-ēd-a	ḫēaraštēda
-ḫēbātū-we	ḫēbādōi
+ḫēbādu-we	ḫēbādōi
 ḫēl-išt-o	ḫēlištu
 ḫēl-išt-u	ḫēlištu
 ḫēr	ḫeēr
 ḫēr-i	ḫēri
-ḫēraġi-i-da	ḫēraġida
 ḫēri-ne-ž	ḫerinež
 ḫēġ+ō+že	ḫēġōži
 ḫīd-ūr-i	ḫīdūri
@@ -3717,13 +3881,13 @@ uži-a	uža
 ḫōbri	ḫōbri
 ḫōbri-a	ḫōbra
 ḫōbri-b	ḫōbrib
-ḫōd+a+ni-na	ḫōdanna
 ḫōd+a+nn+ar+a+že-āe	ḫōdannaražāe
 ḫōd+a+nn+ar+a+že-āi	ḫōdannaražāi
 ḫōd+a+nni	ḫōdanni
 ḫōd+a+nni-a	ḫōdanna
 ḫōd+a+nni-da	ḫōdannida
 ḫōd+a+nni-i-da	ḫōdannida
+ḫōd+a+nni-na	ḫōdanna
 ḫōd+a+nni-ve-āe	ḫōdannibāe
 ḫōd+a+nni-āe	ḫōdannāe
 ḫōd-ed-aw	ḫudidaw
@@ -3732,8 +3896,10 @@ uži-a	uža
 ḫōd-ušt-o-m	ḫūduštum
 ḫōde-na	ḫōdena
 ḫōde-na-až-e	ḫōdinaži
+ḫōde-na-až-e-āi	ḫōdenažāi
 ḫōde-na-až-ož	ḫōdenažuž
 ḫōde-na-āž-a	ḫudenāža
+ḫōde-na-āž-ōž	ḫōdenāžōž
 ḫōde-ž	ḫōdež
 ḫōdelluri-na-až-ož	ḫōdellurražuž
 ḫōe+ni-i-e=mma	ḫōenēmma
@@ -3775,6 +3941,7 @@ uži-a	uža
 ḫōri-na-až-a=lla	ḫōrražalla
 ḫōrm+ar+i	ḫōrmari
 ḫōrr-ošt-āw	ḫōrruštāw
+ḫōrušši-a	ḫōruššia
 ḫōrv+āde	ḫōrvāde
 ḫōrvi-ne	ḫōrvini
 ḫōrvi-ne-e	ḫōrvini
@@ -3795,8 +3962,6 @@ uži-a	uža
 ḫōž-ūw-a	ḫužūwa
 ḫōžuri-na-až-a	ḫōžurraža
 ḫūe	ḫuwe
-ḫūe-ne-va=an	ḫuenivan
-ḫūe-ne-va=n	ḫuenivan
 ḫūruffe	ḫōruppi
 ḫūruffe-ne-e	ḫūruffeni
 ḫūž-i-a	ḫūžia
