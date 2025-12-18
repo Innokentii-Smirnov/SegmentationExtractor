@@ -24,4 +24,4 @@ for l in data.values():
   l.sort()
 with open(outfile, 'w', encoding='utf-8') as fout:
   for key, values in sorted(data.items()):
-    print(key, ', '.join(values), sep='\t', file=fout)
+    print(key, ', '.join(sorted(set(values))), sep='\t', file=fout)
