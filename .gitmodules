@@ -1,3 +1,6 @@
 [submodule "src/morph"]
 	path = src/morph
 	url = https://github.com/Innokentii-Smirnov/HPMMorphologicalAnalysis.git
+[submodule "DictionaryGenerator"]
+	path = DictionaryGenerator
+	url = https://github.com/Innokentii-Smirnov/DictionaryGenerator.git
