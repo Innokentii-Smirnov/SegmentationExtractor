@@ -2,7 +2,7 @@ from os import getenv, path
 from json import load
 from collections import defaultdict
 from morph import parseMorph
-directory = path.join(getenv('HOME'), 'bwSyncShare', 'TIVE BASISCORPUS ARBEITSBEREICH')
+directory = 'data'
 infile = path.join(directory, 'Dictionary.json')
 assert path.exists(infile)
 outfile = 'word.xhu.tsv'
