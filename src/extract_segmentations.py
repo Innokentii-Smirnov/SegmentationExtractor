@@ -20,7 +20,8 @@ for transcription, values in dictionary.items():
       and not any(char.isdigit() for char in transcription)):
     for value in values:
       morph = parseMorph(value)
-      data[morph.segmentation.lower()].append(transcription)
+      if morph.segmentation != '':
+        data[morph.segmentation.lower()].append(transcription)
 for l in data.values():
   l.sort()
 with open(outfile, 'w', encoding='utf-8') as fout:
