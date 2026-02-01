@@ -6,6 +6,9 @@ directory = 'data'
 infile = path.join(directory, 'Dictionary.json')
 assert path.exists(infile)
 outfile = 'word.xhu.tsv'
+SEP = ', '
+def join(words: list[str]) -> str:
+  return SEP.join(sorted(words))
 assert path.exists(infile)
 with open(infile, 'r', encoding='utf-8') as fin:
   json_data = load(fin)
@@ -18,12 +21,16 @@ for transcription, values in dictionary.items():
       and transcription.strip() != ''
       and transcription.islower()
       and not any(char.isdigit() for char in transcription)):
+    segmentations = list[str]()
     for value in values:
       morph = parseMorph(value)
       if morph.segmentation != '':
-        data[morph.segmentation.lower()].append(transcription)
+        segmentations.append(morph.segmentation.lower())
+    joined_segmentations = join(segmentations)
+    data[joined_segmentations].append(transcription)
 for l in data.values():
   l.sort()
 with open(outfile, 'w', encoding='utf-8') as fout:
-  for key, values in sorted(data.items()):
-    print(key, ', '.join(sorted(set(values))), sep='\t', file=fout)
+  for joined_segmentations, transcriptions in sorted(data.items()):
+    joined_transcriptions = join(transcriptions)
+    print(joined_segmentations, joined_transcriptions, sep='\t', file=fout)
