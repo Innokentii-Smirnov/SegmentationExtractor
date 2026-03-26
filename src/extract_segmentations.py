@@ -47,6 +47,10 @@ for transcription, values in dictionary.items():
 
 df = pd.DataFrame(sorted(morphosyntactic_words))
 
+ergative_suffix_lost = df['segmentation'].str.endswith('ž') & ~df['form'].str.endswith('ž')
+entries_to_remove = ergative_suffix_lost
+df.drop(df[entries_to_remove].index, inplace=True)
+
 df.sort_values(['segmentation', 'pos'], inplace=True)
 df[df.duplicated(['segmentation', 'pos'], False)].to_csv(args.graphic_variants, sep='\t', index=False)
 
