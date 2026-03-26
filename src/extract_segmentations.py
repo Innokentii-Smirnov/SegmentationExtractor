@@ -2,11 +2,15 @@ from os import path
 from json import load
 from morph import parseMorph
 import argparse
+import regex as re
 import pandas as pd
 from morphosyntactic_word import MorphosyntacticWord
 
 def is_fragment(form: str) -> bool:
   return '[' in form or ']' in form or 'x' in form or '(-)' in form
+
+def preprocess_segmentation(segmentation: str) -> str:
+  return re.sub(r'(?<=^|\.)\p{Lu}(?!\p{Lu})', lambda match: str.lower(match.group(0)), segmentation)
 
 parser = argparse.ArgumentParser(
   prog='extract_segmentations.py',
@@ -37,7 +41,7 @@ for transcription, values in dictionary.items():
     for value in values:
       morph = parseMorph(value)
       if morph.segmentation != '' and not morph.segmentation.startswith('-') and morph.pos != 'unclear':
-        segmentation = morph.segmentation.lower()
+        segmentation = preprocess_segmentation(morph.segmentation)
         morphosyntactic_word = MorphosyntacticWord(transcription, segmentation, morph.pos)
         morphosyntactic_words.add(morphosyntactic_word)
 
