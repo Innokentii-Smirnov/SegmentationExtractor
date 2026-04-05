@@ -5,3 +5,4 @@ class MorphosyntacticWord:
   form: str
   segmentation: str
   pos: str
+  morph_tag: str

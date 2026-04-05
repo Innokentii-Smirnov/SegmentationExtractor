@@ -20,4 +20,4 @@ train_data, dev_data = train_test_split(model_data, test_size=0.1, random_state=
 train_data.to_csv(f'{args.language}.word.train.tsv', index=False, sep='\t', header=False)
 dev_data.to_csv(f'{args.language}.word.dev.tsv', index=False, sep='\t', header=False)
 test_data.to_csv(f'{args.language}.word.test.gold.tsv', index=False, sep='\t', header=False)
-test_data[['form', 'pos']].to_csv(f'{args.language}.word.test.tsv', index=False, sep='\t', header=False)
+test_data[['form', 'feats']].to_csv(f'{args.language}.word.test.tsv', index=False, sep='\t', header=False)

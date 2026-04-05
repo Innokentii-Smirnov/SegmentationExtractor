@@ -1,6 +1,7 @@
 from os import path
 from json import load
-from morph import parseMorph
+from more_itertools import first
+from morph import Morph, SingleMorph, MultiMorph
 import argparse
 import regex as re
 import pandas as pd
@@ -39,10 +40,16 @@ for transcription, values in dictionary.items():
       and not any(char.isdigit() for char in transcription)
       and not transcription.startswith('*')):
     for value in values:
-      morph = parseMorph(value)
+      morph = Morph.parse(value)
       if morph.segmentation != '' and not morph.segmentation.startswith('-') and morph.pos != 'unclear':
         segmentation = preprocess_segmentation(morph.segmentation)
-        morphosyntactic_word = MorphosyntacticWord(transcription, segmentation, morph.pos)
+        if isinstance(morph, MultiMorph):
+          morph_tag = first(morph.morph_tags.values())
+        elif isinstance(morph, SingleMorph):
+          morph_tag = morph.morph_tag
+        else:
+          raise ValueError('Unknown morphological analysis type.')
+        morphosyntactic_word = MorphosyntacticWord(transcription, segmentation, morph.pos, morph_tag)
         morphosyntactic_words.add(morphosyntactic_word)
 
 df = pd.DataFrame(sorted(morphosyntactic_words))
@@ -63,4 +70,6 @@ df.drop_duplicates(['segmentation', 'pos'], inplace=True)
 df.sort_values(['form', 'pos'], inplace=True)
 df.drop_duplicates(['form', 'pos'], inplace=True)
 
-df.to_csv(args.outfile, sep='\t', index=False)
+df['feats'] = (df['pos'] + ';' + df['morph_tag'].str.replace('-', ';').str.replace('=', ';').str.strip(';').str.strip('.')).str.strip(';')
+
+df.to_csv(args.outfile, sep='\t', index=False, columns=['form', 'segmentation', 'feats'])
